@@ -1,0 +1,17 @@
+<% if(data.children) { %> 
+    <div style="text-align: left;">
+        <div>
+            <%= tab %>  <span><%= data.name %></span>
+        </div>
+        <% data.children.forEach((child) => { %>
+            <%- include("module.ejs", {data: child, tab: tab+tab  }) %>
+        <% }); %>
+    </div>
+<% }else{ %>
+    <div class="items-body-content" style="text-align: left;">
+        <a href="<%= data.path %>">
+        <%= tab %> > <span><%= data.name %></span>
+        </a>
+        <i class="fa fa-angle-right"></i>
+    </div>
+<% } %>

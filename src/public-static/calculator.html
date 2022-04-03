@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html class="" lang="es">
+
+<head>
+  <title>Inflation Calculator</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
+
+  <style type="text/css">
+    body {
+      font-family: 'Ubuntu', sans-serif;
+    }
+  </style>
+
+  <script type="text/javascript">
+
+    function getCpi(year, month, success) {
+      var xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange = function () {
+        if (this.readyState == 4 && this.status == 200) {
+          success(JSON.parse(this.response));
+        }
+      };
+      xhttp.open("GET", "/cpi/" + year + "/" + month, true);
+      xhttp.send();
+    }
+
+
+    function calcular() {
+      var year1 = document.getElementById("year1").value;
+      var year2 = document.getElementById("year2").value;
+      var month1 = document.getElementById("month1").value;
+      var month2 = document.getElementById("month2").value;
+
+      getCpi(year1, month1, function (json) { originValue = parseFloat(json.value); showResult(); });
+      getCpi(year2, month2, function (json) { targetValue = parseFloat(json.value); showResult(); });
+
+    }
+
+    function showResult() {
+
+      if (typeof originValue !== 'undefined' && typeof targetValue !== 'undefined') {
+
+        var amount = parseFloat(document.getElementById("amount").value);
+        var adjustedAmount = (amount / originValue) * targetValue;
+        document.getElementById("result").value = Math.round(adjustedAmount * 100) / 100;
+
+      }
+
+    }
+
+  </script>
+
+</head>
+
+<body>
+  <h1>Inflation Calculator</h1>
+
+  <p>Inspirada en <a href="https://www.usinflationcalculator.com/">U.S. Inflation Calculator</a>.</p>
+
+  <p>Si en
+    <select id="month1">
+      <option value="1">enero</option>
+      <option value="2">febrero</option>
+      <option value="3">marzo</option>
+      <option value="4">abril</option>
+      <option value="5">mayo</option>
+      <option value="6">junio</option>
+      <option value="7">julio</option>
+      <option value="8">agosto</option>
+      <option value="9">septiembre</option>
+      <option value="10">octubre</option>
+      <option value="11">noviembre</option>
+      <option value="12">diciembre</option>
+    </select> de <input type="year" id="year1" min="1913" max="2021" /> compro un producto por <input type="number"
+      id="amount" />
+    dólares,
+  </p>
+  <p>entonces en <select id="month2">
+      <option value="1">enero</option>
+      <option value="2">febrero</option>
+      <option value="3">marzo</option>
+      <option value="4">abril</option>
+      <option value="5">mayo</option>
+      <option value="6">junio</option>
+      <option value="7">julio</option>
+      <option value="8">agosto</option>
+      <option value="9">septiembre</option>
+      <option value="10">octubre</option>
+      <option value="11">noviembre</option>
+      <option value="12">diciembre</option>
+    </select> de <input type="year" id="year2" min="1913" max="2021" /> ese producto costaría <input type="text"
+      id="result" readonly /> dólares.</p>
+  <p><input type="button" value="Calcular" onclick="calcular()" /></p>
+</body>
+
+</html>

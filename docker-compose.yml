@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+
+  app:
+    ## indicamos que vamos a generar una imagen desde Dockerfile
+    build: .
+
+    ## puerto que se exponen puertoPC:puertoContenedor
+    ports:
+      - "3000:3000"
+
+    volumes:
+      ## se comparte carpeta de recurso (para html, css y js) 
+      ## con el contenedor para visivilizar los cambios
+      - ./practicas:/app/practicas
+      
+      ## se comparte el carpeta src que contine node con el contenedor 
+      ## descomentar para hacer modificaciones en el servidor
+      # - ./src:/app/src

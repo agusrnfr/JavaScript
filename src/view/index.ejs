@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seminario de JS - <%= year %></title>
+    <link rel="stylesheet" href="/s/css/style.css">
+    <link rel="icon" href="https://www.info.unlp.edu.ar/favicon.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+  </head>
+  <body>
+    <div class="svg-container">
+      <embed type="image/svg+xml" src="/s/media/logo.svg" />
+    </div>
+  
+    <header>
+      <h1>SEMINARIO DE LENGUAJE</h1>
+      <h3>Facultad de Informática - UNLP -  <%= year %></h3>
+    </header>
+  
+    <main class="container">
+      <section class='middle'>
+        <article class="items links" >
+            <div class="items-head">
+              <p>Links de Interés</p>
+              <hr>
+            </div>
+            <div class="items-body ">
+              <!-- itero por lista de links -->
+              <% links.forEach((link) => { %>
+                <div class="items-body-content">
+                  <a target="_blank" href="<%= link.href %>">
+                    <span><%= link.name %></span>
+                  </a>
+                  <i class="fa fa-angle-right"></i>
+                </div>
+               <% }); %>
+            </div>
+        </article>
+      </section>
+      <section class='middle'>
+        <!-- itero por carpetas y elemenso encontrados -->
+        <% data.forEach((element) => { %>
+          <% if (element.children) { %> 
+            <article class="items archivos-publicos">
+              <div class="items-head">
+                <p>Archivos en <%= element.name %></p>
+                <hr>
+              </div>
+              <div class="items-body">
+                  <% element.children.forEach((child) => { %>
+                    <%- include("module", {data: child, tab: "--"}) %>
+                  <% }); %>
+              </div>
+            </article>
+            <% } %>
+         <% }); %>
+        
+      </section>
+    </main>
+  
+    <footer>
+      <p>Seminario de Lenguaje - Opcion JS -  <%= year %></p>
+      <small> <a href="https://catedras.linti.unlp.edu.ar/" target="_blank" style="color: #004cff;font-weight: bold;"> Acceso al enorno virtual de la catedra</a>.</small>
+    </footer>
+  </body>
+</html>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Seminario de Lenguajes JS
 
 ## Levantar el Proyecto con Docker
@@ -54,3 +55,7 @@
 ```bash
     npm start 
 ```
+=======
+# JavaScript
+Seminario de JavaScript
+>>>>>>> 9e940a67264cb445c4a213afb73f233bda1848e6

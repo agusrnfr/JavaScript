@@ -1,2 +1,0 @@
-# JavaScript
-Seminario de JavaScript

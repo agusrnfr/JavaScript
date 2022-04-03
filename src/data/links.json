@@ -1,0 +1,22 @@
+[
+    {
+        "href": "https://catedras.linti.unlp.edu.ar/course/view.php?id=1049",
+        "name": "Cátedras Linti"
+    },
+    {
+        "href": "https://discord.gg/UBSMvj46BN",
+        "name": "Discord"
+    },
+    {
+        "href": "https://lenguajejs.com/javascript/",
+        "name": "Js en Español"
+    },
+    {
+        "href": "https://www.w3schools.com/jsref/default.asp",
+        "name": "W3Schools - Js en Ingles"
+    },
+    {
+        "href": "https://gitlab.catedras.linti.unlp.edu.ar/js",
+        "name": "Gitlab de Cátedras"
+    }
+]

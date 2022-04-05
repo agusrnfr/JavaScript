@@ -316,3 +316,148 @@ var sum = (x, y) => x + y;
 console.log(numbers.reduce(sum, 0));
 console.log(reduce(numbers, sum, 0));
 
+//EJERCICIO 13
+
+console.log ("EJER 13");
+
+var alice = {
+    name : "Alice",
+dob : new Date(2001, 3, 4),
+height : 165,
+weight : 68
+};
+
+var bob = {
+name : "Robert",
+dob : new Date(1997, 0, 31),
+height : 170,
+weight : 88
+};
+
+var charly = {
+name : "Charles",
+dob : new Date(1978, 9, 15),
+height : 188,
+weight : 102
+};
+
+var lucy = {
+name : "Lucía",
+dob : new Date(1955, 7, 7),
+height : 155,
+weight : 61
+};
+
+var peter = {
+name : "Peter",
+dob : new Date(1988, 2, 9),
+height : 165,
+weight : 99
+};
+
+var luke = {
+name : "Lucas",
+dob : new Date(1910, 11, 4),
+height : 172,
+weight : 75
+};
+
+function imc (masa,altura){
+    return masa/Math.pow(altura/100,2);
+
+}
+
+var arreglo = [alice,bob,charly,lucy,peter,luke];
+
+//1
+
+function punto1 (arreglo){
+    return  arreglo.filter(objeto => imc(objeto.weight,objeto.height) > 25);
+}
+
+const arregloMas25 = punto1(arreglo);
+
+console.log (arregloMas25);
+
+//2
+function edad(fecha){
+    var hoy = new Date();
+    var cumpleanos = new Date(fecha);
+    var edad = hoy.getFullYear() - cumpleanos.getFullYear();
+    var m = hoy.getMonth() - cumpleanos.getMonth();
+
+    if (m < 0 || (m === 0 && hoy.getDate() < cumpleanos.getDate())) {
+        edad--;
+    }
+    return edad;
+}
+
+function punto2 (arreglo){
+    return arreglo.map(function (obj){
+        var rObj = {};
+        rObj[obj.name] = edad(obj.dob);
+        return rObj;
+    });
+}
+
+const arPunt2 = punto2 (arreglo);
+
+console.log (arPunt2);
+
+//3
+
+function punto3 (arreglo){
+    let arr = arreglo.filter(objeto => (edad(objeto.dob) > 40));
+    return arr.map(function(obj){
+        var rObj = {};
+        rObj[obj.name] = imc(obj.weight,obj.height);
+        return rObj;
+    });
+}
+
+const arPunt3 = punto3 (arreglo);
+
+console.log (arPunt3);
+
+//4
+
+function punto4 (arreglo){
+    let arr = arreglo.map(obj => imc(obj.weight,obj.height));
+    return (arr.reduce((a,b) => a+b,0))/arreglo.length;
+}
+
+const arPunt4 = punto4 (arreglo);
+
+console.log (arPunt4);
+
+//5
+
+function punto5 (arreglo){
+    let min = 9999;
+    let persona=Object;
+    arreglo.forEach(function(objeto){
+        if (edad(objeto.dob) < min){
+            min = edad(objeto.dob)
+            persona = objeto;
+        }
+        return objeto;
+    })
+    return persona
+}
+
+const arPunt5 = punto5 (arreglo);
+
+console.log (arPunt5);
+
+//6
+
+function punto6 (arreglo){
+   return arreglo.sort(function(a,b){
+        return a.height - b.height;
+    });
+
+}
+
+const arPunt6 = punto6 (arreglo);
+
+console.log (arPunt6);

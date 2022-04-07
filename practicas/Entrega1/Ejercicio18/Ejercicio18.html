@@ -1,0 +1,42 @@
+<!--En un formulario con un select como el que sigue,
+
+ <select>
+    <option  value="red" > Rojo </option>
+    <option  value="green" > Verde </option>
+    <option  value="white" selected> Blanco </option>
+    <option  value="blue" > Azul </option>
+ </select>
+
+implemente una función que al hacer click en un botón modifique el color de fondo del documento de
+acuerdo al valor seleccionado.
+Pista: puede agregar un atributo id tanto en en el select como en el body.
+¿Cómo puede hacer que al cargar la página el valor seleccionado sea siempre "Blanco"?-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio18</title>
+    <script type="text/javascript" src="Ejercicio18.js"> 
+    </script>
+    <link href="ejercicio18.css" rel="stylesheet"> </link>
+    
+</head>
+    <body >
+        <div class="container">
+            <form>
+                <label class="texto"> Elige el color de la página </label><br>
+                <select id="seleccionar" >
+                    <option  value="red" > Rojo </option>
+                    <option  value="green" > Verde </option>
+                    <option  value="white" selected> Blanco </option>
+                    <option  value="blue" > Azul </option>
+                </select>
+                <input type="button" value="Enviar" onclick="valor()"/>  
+            </form>
+        </div>
+    </body>
+</html>
+

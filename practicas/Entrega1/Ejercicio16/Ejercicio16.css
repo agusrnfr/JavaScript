@@ -1,0 +1,33 @@
+html {
+    font-family: Courier;
+    font-size: large;
+}
+form {
+    text-align: center;
+    margin: 15 auto;
+}
+
+.operandos {
+    width: 5%;
+    color: black;
+    padding: 4px;
+    font-family: Courier;
+    font-size: medium;
+    border-style: dotted;
+}
+
+#result {
+    width: 20%;
+    color: black;
+    padding: 4px;
+    text-align: center;
+    font-size: medium;
+    font-family: Courier;
+    border-style:outset;
+
+}
+#botoncito{
+    background-color: gold;
+    width: 5%;
+    padding: 3px;
+}

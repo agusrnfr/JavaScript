@@ -1,0 +1,31 @@
+<!-- Modifique el ejercicio anterior para agregar 3 botones que permitan restar, multiplicar y dividir de forma
+análoga a la suma.
+¿Qué sucede si se divide por cero? ¿Cómo lo resuelve?-->
+
+<html>
+    <head>
+        <title>Ejercicio 17</title>
+        <script type="text/javascript" src="Ejercicio17.js"> </script>
+        <link href="Ejercicio17.css" rel="stylesheet">
+    </head>
+    <body>
+        <form>
+            <label for = "operandos">Ingrese dos números:
+                <input type="text" id="op1" class="operandos" onclick="limpiar()"/>
+                                    
+                <input type="text" id="op2" class="operandos" onclick="limpiar()"/>
+            </label>
+
+            <label>
+                <br>
+                <input class="botoncito" style="background-color: #FF595E" type="button" id ="mulButton" value="MULT" onclick="analizar(this.id)"/>
+                <input class="botoncito" style="background-color: #FFCA3A" type="button" id ="divButton" value="DIV" onclick="analizar(this.id)"/> 
+                <input class="botoncito" style="background-color: #8AC926" type="button" id ="sumarButton" value="SUMAR" onclick="analizar(this.id)"/> 
+                <input class="botoncito" style="background-color: #1982C4" type="button" id ="restarButton" value="RESTAR" onclick="analizar(this.id)"/> 
+            </label>
+            <br>
+            <input type="text" id="result" readonly="readonly"/> <!-- READONLY HACE QUE SEA SOLO DE LECTURA,NO SE PUEDE MODIFICAR-->
+            
+        </form>
+    </body>
+</html>

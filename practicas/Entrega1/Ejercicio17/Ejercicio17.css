@@ -1,0 +1,53 @@
+html {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: Courier;
+    font-size: large;
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190521/pngtree-mathematics-seamless-fabric-pattern-set-image_114272.jpg);
+}
+
+form {
+    text-align: center;
+    margin-top: 20% ;
+    font-size: 30px ;
+    background-color: rgba(146, 136, 149, 0.5);
+    padding: 30px;
+    border-style: dashed;
+    border-color: rgb(77, 71, 72);
+}
+
+.operandos {
+    width: 10%;
+    color: black;
+    padding: 4px;
+    font-family: Courier;
+    font-size: medium;
+    border-style:dotted;
+}
+
+label{
+    -webkit-text-stroke: 1.5px black;
+    color: white;
+    font-weight: bold;
+}
+
+#result {
+    width: 30%;
+    color: black;
+    padding: 4px;
+    text-align: center;
+    font-size: medium;
+    font-family: Courier;
+    border-style:outset;
+    border-color: black;
+    
+}
+.botoncito{
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: italic;
+    width: 10%;
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

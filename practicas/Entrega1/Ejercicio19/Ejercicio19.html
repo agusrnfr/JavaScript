@@ -1,0 +1,29 @@
+<!-- Modifique el ejercicio anterior para que no haya ningún botón y el color cambie apenas se modifica la selección.
+Use el evento load para asegurarse que al cargar la página el color de fondo coincida con el seleccionado en el select. -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio19</title>
+    <script type="text/javascript" src="Ejercicio19.js"> 
+    </script>
+    <link href="ejercicio19.css" rel="stylesheet"> </link>    
+</head>
+    <body>
+        <div class="container">
+            <form>
+                <label class="texto"> Elige el color de la página </label><br>
+                <select id="seleccionar" onchange="valor()">
+                    <option  value="red" > Rojo </option>
+                    <option  value="green" > Verde </option>
+                    <option  value="white" selected> Blanco </option>
+                    <option  value="blue" > Azul </option>
+                </select>
+            </form>
+        </div>
+    </body>
+</html>
+

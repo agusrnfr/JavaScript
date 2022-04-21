@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 3</title>
+    <link rel="icon" href="https://www.info.unlp.edu.ar/favicon.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+  </head>
+  <script>
+    fetch('https://api.thecatapi.com/v1/images/search')
+    .then(response => response.json())
+    .then(data => document.getElementById("miau").src = data[0].url);
+  </script>
+<body>
+    <header>
+        <h1>MIAU</h1>
+        <img id="miau" src=>
+      </header>
+</body>
+</html>

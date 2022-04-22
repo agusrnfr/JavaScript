@@ -43,4 +43,6 @@ function search(){
         })
         .catch (function(){list.innerHTML='That word is not in the title of any episode. Try another!'});
     }
+    else
+    list.innerHTML='That word is not in the title of any episode. Try another!'
 }    

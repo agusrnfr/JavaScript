@@ -41,8 +41,8 @@ function search(){
             ep.results.forEach(ep => show(ep.name,ep.air_date,ep.episode))
             console.log(ep.results);
         })
-        .catch (function(){list.innerHTML='That word is not in the title of any episode. Try another!'});
+        .catch (function(){list.innerHTML='That text is not in the title of any episode. Try another!'});
     }
     else
-    list.innerHTML='That word is not in the title of any episode. Try another!'
+    list.innerHTML='That text is not in the title of any episode. Try another!'
 }    

@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap');
+
+html, body{
+    height:100vh;
+    width: 100%;
+    margin: 0px;
+    font-family: 'VT323', monospace;
+    font-size: 27px;
+    text-align: center;
+  }
+
+  .box02{
+    position:absolute;
+    width: 20%;
+    height: 110vh;
+    background: #7c3626;
+    border: 3px solid #2d080a;
+    float: left;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .box02 li{
+    cursor: pointer;
+  }
+
+  .box03{
+    background-image: url("data:image/svg+xml,%3Csvg width='76' height='76' viewBox='0 0 76 76' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='76' height='76' fill='%23E5CFAF'/%3E%3Ccircle cx='38' cy='38' r='23' stroke='%23C07C2B' stroke-width='2'/%3E%3Cline x1='14' y1='37.558' x2='31.8605' y2='37.558' stroke='%23C07C2B' stroke-width='2'/%3E%3Cline x1='43.0233' y1='37.558' x2='60.8837' y2='37.558' stroke='%23C07C2B' stroke-width='2'/%3E%3Ccircle cx='37.4419' cy='37.4418' r='5.69767' stroke='%23C07C2B' stroke-width='2'/%3E%3Ccircle cx='37.4418' cy='37.4418' r='1.73256' stroke='%23C07C2B'/%3E%3C/svg%3E");
+    width: 79.10%;
+    height: 103.85vh;
+    max-height: fit-content;
+    border: 3px solid #f5853f;
+    float: right;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 3%;
+  }
+
+  .box03 h1{
+    margin: 5px;
+  }
+
+  .box03 h3{
+    margin-top: 5px;
+    margin-bottom: 3px;
+  }
+
+  .box03 ul{
+    margin-top : 9px;
+    margin-bottom: 20px;
+  }
+  
+  .boton{
+      margin: 5%;
+      width: 100px;
+      height: 35px;
+      font-family: 'VT323', monospace;
+      font-size: 27px;
+      text-align: center;
+      background-color: #C07C2B;
+      box-shadow: 2px 2px #442b0d,
+              3px 3px #442b0d,
+              4px 4px #442b0d,
+              5px 5px #442b0d,
+              6px 6px #442b0d,
+              7px 7px #442b0d,
+              8px 8px #442b0d,
+              9px 9px #000000;
+      cursor: pointer;
+  }
+
+  .info{
+    display: inline-block;
+    max-width:50%; 
+    word-break:break-all; 
+    list-style: none;
+    padding: 5px; 
+    background-color: #442b0dec;
+    margin: 2px;
+    box-shadow : 2px 2px #000000;
+}
+
+.imagen{
+  width: 200px;
+  height: auto;
+  background-color: #442b0d96;
+  border:2.5px solid #472b08;
+  border-radius: 50%;
+  padding: 20px;
+}
+

@@ -1,0 +1,6557 @@
+[
+    {
+        "year": 1913,
+        "month": 1,
+        "value": 9.8
+    },
+    {
+        "year": 1913,
+        "month": 2,
+        "value": 9.8
+    },
+    {
+        "year": 1913,
+        "month": 3,
+        "value": 9.8
+    },
+    {
+        "year": 1913,
+        "month": 4,
+        "value": 9.8
+    },
+    {
+        "year": 1913,
+        "month": 5,
+        "value": 9.7
+    },
+    {
+        "year": 1913,
+        "month": 6,
+        "value": 9.8
+    },
+    {
+        "year": 1913,
+        "month": 7,
+        "value": 9.9
+    },
+    {
+        "year": 1913,
+        "month": 8,
+        "value": 9.9
+    },
+    {
+        "year": 1913,
+        "month": 9,
+        "value": 10.0
+    },
+    {
+        "year": 1913,
+        "month": 10,
+        "value": 10.0
+    },
+    {
+        "year": 1913,
+        "month": 11,
+        "value": 10.1
+    },
+    {
+        "year": 1913,
+        "month": 12,
+        "value": 10.0
+    },
+    {
+        "year": 1914,
+        "month": 1,
+        "value": 10.0
+    },
+    {
+        "year": 1914,
+        "month": 2,
+        "value": 9.9
+    },
+    {
+        "year": 1914,
+        "month": 3,
+        "value": 9.9
+    },
+    {
+        "year": 1914,
+        "month": 4,
+        "value": 9.8
+    },
+    {
+        "year": 1914,
+        "month": 5,
+        "value": 9.9
+    },
+    {
+        "year": 1914,
+        "month": 6,
+        "value": 9.9
+    },
+    {
+        "year": 1914,
+        "month": 7,
+        "value": 10.0
+    },
+    {
+        "year": 1914,
+        "month": 8,
+        "value": 10.2
+    },
+    {
+        "year": 1914,
+        "month": 9,
+        "value": 10.2
+    },
+    {
+        "year": 1914,
+        "month": 10,
+        "value": 10.1
+    },
+    {
+        "year": 1914,
+        "month": 11,
+        "value": 10.2
+    },
+    {
+        "year": 1914,
+        "month": 12,
+        "value": 10.1
+    },
+    {
+        "year": 1915,
+        "month": 1,
+        "value": 10.1
+    },
+    {
+        "year": 1915,
+        "month": 2,
+        "value": 10.0
+    },
+    {
+        "year": 1915,
+        "month": 3,
+        "value": 9.9
+    },
+    {
+        "year": 1915,
+        "month": 4,
+        "value": 10.0
+    },
+    {
+        "year": 1915,
+        "month": 5,
+        "value": 10.1
+    },
+    {
+        "year": 1915,
+        "month": 6,
+        "value": 10.1
+    },
+    {
+        "year": 1915,
+        "month": 7,
+        "value": 10.1
+    },
+    {
+        "year": 1915,
+        "month": 8,
+        "value": 10.1
+    },
+    {
+        "year": 1915,
+        "month": 9,
+        "value": 10.1
+    },
+    {
+        "year": 1915,
+        "month": 10,
+        "value": 10.2
+    },
+    {
+        "year": 1915,
+        "month": 11,
+        "value": 10.3
+    },
+    {
+        "year": 1915,
+        "month": 12,
+        "value": 10.3
+    },
+    {
+        "year": 1916,
+        "month": 1,
+        "value": 10.4
+    },
+    {
+        "year": 1916,
+        "month": 2,
+        "value": 10.4
+    },
+    {
+        "year": 1916,
+        "month": 3,
+        "value": 10.5
+    },
+    {
+        "year": 1916,
+        "month": 4,
+        "value": 10.6
+    },
+    {
+        "year": 1916,
+        "month": 5,
+        "value": 10.7
+    },
+    {
+        "year": 1916,
+        "month": 6,
+        "value": 10.8
+    },
+    {
+        "year": 1916,
+        "month": 7,
+        "value": 10.8
+    },
+    {
+        "year": 1916,
+        "month": 8,
+        "value": 10.9
+    },
+    {
+        "year": 1916,
+        "month": 9,
+        "value": 11.1
+    },
+    {
+        "year": 1916,
+        "month": 10,
+        "value": 11.3
+    },
+    {
+        "year": 1916,
+        "month": 11,
+        "value": 11.5
+    },
+    {
+        "year": 1916,
+        "month": 12,
+        "value": 11.6
+    },
+    {
+        "year": 1917,
+        "month": 1,
+        "value": 11.7
+    },
+    {
+        "year": 1917,
+        "month": 2,
+        "value": 12.0
+    },
+    {
+        "year": 1917,
+        "month": 3,
+        "value": 12.0
+    },
+    {
+        "year": 1917,
+        "month": 4,
+        "value": 12.6
+    },
+    {
+        "year": 1917,
+        "month": 5,
+        "value": 12.8
+    },
+    {
+        "year": 1917,
+        "month": 6,
+        "value": 13.0
+    },
+    {
+        "year": 1917,
+        "month": 7,
+        "value": 12.8
+    },
+    {
+        "year": 1917,
+        "month": 8,
+        "value": 13.0
+    },
+    {
+        "year": 1917,
+        "month": 9,
+        "value": 13.3
+    },
+    {
+        "year": 1917,
+        "month": 10,
+        "value": 13.5
+    },
+    {
+        "year": 1917,
+        "month": 11,
+        "value": 13.5
+    },
+    {
+        "year": 1917,
+        "month": 12,
+        "value": 13.7
+    },
+    {
+        "year": 1918,
+        "month": 1,
+        "value": 14.0
+    },
+    {
+        "year": 1918,
+        "month": 2,
+        "value": 14.1
+    },
+    {
+        "year": 1918,
+        "month": 3,
+        "value": 14.0
+    },
+    {
+        "year": 1918,
+        "month": 4,
+        "value": 14.2
+    },
+    {
+        "year": 1918,
+        "month": 5,
+        "value": 14.5
+    },
+    {
+        "year": 1918,
+        "month": 6,
+        "value": 14.7
+    },
+    {
+        "year": 1918,
+        "month": 7,
+        "value": 15.1
+    },
+    {
+        "year": 1918,
+        "month": 8,
+        "value": 15.4
+    },
+    {
+        "year": 1918,
+        "month": 9,
+        "value": 15.7
+    },
+    {
+        "year": 1918,
+        "month": 10,
+        "value": 16.0
+    },
+    {
+        "year": 1918,
+        "month": 11,
+        "value": 16.3
+    },
+    {
+        "year": 1918,
+        "month": 12,
+        "value": 16.5
+    },
+    {
+        "year": 1919,
+        "month": 1,
+        "value": 16.5
+    },
+    {
+        "year": 1919,
+        "month": 2,
+        "value": 16.2
+    },
+    {
+        "year": 1919,
+        "month": 3,
+        "value": 16.4
+    },
+    {
+        "year": 1919,
+        "month": 4,
+        "value": 16.7
+    },
+    {
+        "year": 1919,
+        "month": 5,
+        "value": 16.9
+    },
+    {
+        "year": 1919,
+        "month": 6,
+        "value": 16.9
+    },
+    {
+        "year": 1919,
+        "month": 7,
+        "value": 17.4
+    },
+    {
+        "year": 1919,
+        "month": 8,
+        "value": 17.7
+    },
+    {
+        "year": 1919,
+        "month": 9,
+        "value": 17.8
+    },
+    {
+        "year": 1919,
+        "month": 10,
+        "value": 18.1
+    },
+    {
+        "year": 1919,
+        "month": 11,
+        "value": 18.5
+    },
+    {
+        "year": 1919,
+        "month": 12,
+        "value": 18.9
+    },
+    {
+        "year": 1920,
+        "month": 1,
+        "value": 19.3
+    },
+    {
+        "year": 1920,
+        "month": 2,
+        "value": 19.5
+    },
+    {
+        "year": 1920,
+        "month": 3,
+        "value": 19.7
+    },
+    {
+        "year": 1920,
+        "month": 4,
+        "value": 20.3
+    },
+    {
+        "year": 1920,
+        "month": 5,
+        "value": 20.6
+    },
+    {
+        "year": 1920,
+        "month": 6,
+        "value": 20.9
+    },
+    {
+        "year": 1920,
+        "month": 7,
+        "value": 20.8
+    },
+    {
+        "year": 1920,
+        "month": 8,
+        "value": 20.3
+    },
+    {
+        "year": 1920,
+        "month": 9,
+        "value": 20.0
+    },
+    {
+        "year": 1920,
+        "month": 10,
+        "value": 19.9
+    },
+    {
+        "year": 1920,
+        "month": 11,
+        "value": 19.8
+    },
+    {
+        "year": 1920,
+        "month": 12,
+        "value": 19.4
+    },
+    {
+        "year": 1921,
+        "month": 1,
+        "value": 19.0
+    },
+    {
+        "year": 1921,
+        "month": 2,
+        "value": 18.4
+    },
+    {
+        "year": 1921,
+        "month": 3,
+        "value": 18.3
+    },
+    {
+        "year": 1921,
+        "month": 4,
+        "value": 18.1
+    },
+    {
+        "year": 1921,
+        "month": 5,
+        "value": 17.7
+    },
+    {
+        "year": 1921,
+        "month": 6,
+        "value": 17.6
+    },
+    {
+        "year": 1921,
+        "month": 7,
+        "value": 17.7
+    },
+    {
+        "year": 1921,
+        "month": 8,
+        "value": 17.7
+    },
+    {
+        "year": 1921,
+        "month": 9,
+        "value": 17.5
+    },
+    {
+        "year": 1921,
+        "month": 10,
+        "value": 17.5
+    },
+    {
+        "year": 1921,
+        "month": 11,
+        "value": 17.4
+    },
+    {
+        "year": 1921,
+        "month": 12,
+        "value": 17.3
+    },
+    {
+        "year": 1922,
+        "month": 1,
+        "value": 16.9
+    },
+    {
+        "year": 1922,
+        "month": 2,
+        "value": 16.9
+    },
+    {
+        "year": 1922,
+        "month": 3,
+        "value": 16.7
+    },
+    {
+        "year": 1922,
+        "month": 4,
+        "value": 16.7
+    },
+    {
+        "year": 1922,
+        "month": 5,
+        "value": 16.7
+    },
+    {
+        "year": 1922,
+        "month": 6,
+        "value": 16.7
+    },
+    {
+        "year": 1922,
+        "month": 7,
+        "value": 16.8
+    },
+    {
+        "year": 1922,
+        "month": 8,
+        "value": 16.6
+    },
+    {
+        "year": 1922,
+        "month": 9,
+        "value": 16.6
+    },
+    {
+        "year": 1922,
+        "month": 10,
+        "value": 16.7
+    },
+    {
+        "year": 1922,
+        "month": 11,
+        "value": 16.8
+    },
+    {
+        "year": 1922,
+        "month": 12,
+        "value": 16.9
+    },
+    {
+        "year": 1923,
+        "month": 1,
+        "value": 16.8
+    },
+    {
+        "year": 1923,
+        "month": 2,
+        "value": 16.8
+    },
+    {
+        "year": 1923,
+        "month": 3,
+        "value": 16.8
+    },
+    {
+        "year": 1923,
+        "month": 4,
+        "value": 16.9
+    },
+    {
+        "year": 1923,
+        "month": 5,
+        "value": 16.9
+    },
+    {
+        "year": 1923,
+        "month": 6,
+        "value": 17.0
+    },
+    {
+        "year": 1923,
+        "month": 7,
+        "value": 17.2
+    },
+    {
+        "year": 1923,
+        "month": 8,
+        "value": 17.1
+    },
+    {
+        "year": 1923,
+        "month": 9,
+        "value": 17.2
+    },
+    {
+        "year": 1923,
+        "month": 10,
+        "value": 17.3
+    },
+    {
+        "year": 1923,
+        "month": 11,
+        "value": 17.3
+    },
+    {
+        "year": 1923,
+        "month": 12,
+        "value": 17.3
+    },
+    {
+        "year": 1924,
+        "month": 1,
+        "value": 17.3
+    },
+    {
+        "year": 1924,
+        "month": 2,
+        "value": 17.2
+    },
+    {
+        "year": 1924,
+        "month": 3,
+        "value": 17.1
+    },
+    {
+        "year": 1924,
+        "month": 4,
+        "value": 17.0
+    },
+    {
+        "year": 1924,
+        "month": 5,
+        "value": 17.0
+    },
+    {
+        "year": 1924,
+        "month": 6,
+        "value": 17.0
+    },
+    {
+        "year": 1924,
+        "month": 7,
+        "value": 17.1
+    },
+    {
+        "year": 1924,
+        "month": 8,
+        "value": 17.0
+    },
+    {
+        "year": 1924,
+        "month": 9,
+        "value": 17.1
+    },
+    {
+        "year": 1924,
+        "month": 10,
+        "value": 17.2
+    },
+    {
+        "year": 1924,
+        "month": 11,
+        "value": 17.2
+    },
+    {
+        "year": 1924,
+        "month": 12,
+        "value": 17.3
+    },
+    {
+        "year": 1925,
+        "month": 1,
+        "value": 17.3
+    },
+    {
+        "year": 1925,
+        "month": 2,
+        "value": 17.2
+    },
+    {
+        "year": 1925,
+        "month": 3,
+        "value": 17.3
+    },
+    {
+        "year": 1925,
+        "month": 4,
+        "value": 17.2
+    },
+    {
+        "year": 1925,
+        "month": 5,
+        "value": 17.3
+    },
+    {
+        "year": 1925,
+        "month": 6,
+        "value": 17.5
+    },
+    {
+        "year": 1925,
+        "month": 7,
+        "value": 17.7
+    },
+    {
+        "year": 1925,
+        "month": 8,
+        "value": 17.7
+    },
+    {
+        "year": 1925,
+        "month": 9,
+        "value": 17.7
+    },
+    {
+        "year": 1925,
+        "month": 10,
+        "value": 17.7
+    },
+    {
+        "year": 1925,
+        "month": 11,
+        "value": 18.0
+    },
+    {
+        "year": 1925,
+        "month": 12,
+        "value": 17.9
+    },
+    {
+        "year": 1926,
+        "month": 1,
+        "value": 17.9
+    },
+    {
+        "year": 1926,
+        "month": 2,
+        "value": 17.9
+    },
+    {
+        "year": 1926,
+        "month": 3,
+        "value": 17.8
+    },
+    {
+        "year": 1926,
+        "month": 4,
+        "value": 17.9
+    },
+    {
+        "year": 1926,
+        "month": 5,
+        "value": 17.8
+    },
+    {
+        "year": 1926,
+        "month": 6,
+        "value": 17.7
+    },
+    {
+        "year": 1926,
+        "month": 7,
+        "value": 17.5
+    },
+    {
+        "year": 1926,
+        "month": 8,
+        "value": 17.4
+    },
+    {
+        "year": 1926,
+        "month": 9,
+        "value": 17.5
+    },
+    {
+        "year": 1926,
+        "month": 10,
+        "value": 17.6
+    },
+    {
+        "year": 1926,
+        "month": 11,
+        "value": 17.7
+    },
+    {
+        "year": 1926,
+        "month": 12,
+        "value": 17.7
+    },
+    {
+        "year": 1927,
+        "month": 1,
+        "value": 17.5
+    },
+    {
+        "year": 1927,
+        "month": 2,
+        "value": 17.4
+    },
+    {
+        "year": 1927,
+        "month": 3,
+        "value": 17.3
+    },
+    {
+        "year": 1927,
+        "month": 4,
+        "value": 17.3
+    },
+    {
+        "year": 1927,
+        "month": 5,
+        "value": 17.4
+    },
+    {
+        "year": 1927,
+        "month": 6,
+        "value": 17.6
+    },
+    {
+        "year": 1927,
+        "month": 7,
+        "value": 17.3
+    },
+    {
+        "year": 1927,
+        "month": 8,
+        "value": 17.2
+    },
+    {
+        "year": 1927,
+        "month": 9,
+        "value": 17.3
+    },
+    {
+        "year": 1927,
+        "month": 10,
+        "value": 17.4
+    },
+    {
+        "year": 1927,
+        "month": 11,
+        "value": 17.3
+    },
+    {
+        "year": 1927,
+        "month": 12,
+        "value": 17.3
+    },
+    {
+        "year": 1928,
+        "month": 1,
+        "value": 17.3
+    },
+    {
+        "year": 1928,
+        "month": 2,
+        "value": 17.1
+    },
+    {
+        "year": 1928,
+        "month": 3,
+        "value": 17.1
+    },
+    {
+        "year": 1928,
+        "month": 4,
+        "value": 17.1
+    },
+    {
+        "year": 1928,
+        "month": 5,
+        "value": 17.2
+    },
+    {
+        "year": 1928,
+        "month": 6,
+        "value": 17.1
+    },
+    {
+        "year": 1928,
+        "month": 7,
+        "value": 17.1
+    },
+    {
+        "year": 1928,
+        "month": 8,
+        "value": 17.1
+    },
+    {
+        "year": 1928,
+        "month": 9,
+        "value": 17.3
+    },
+    {
+        "year": 1928,
+        "month": 10,
+        "value": 17.2
+    },
+    {
+        "year": 1928,
+        "month": 11,
+        "value": 17.2
+    },
+    {
+        "year": 1928,
+        "month": 12,
+        "value": 17.1
+    },
+    {
+        "year": 1929,
+        "month": 1,
+        "value": 17.1
+    },
+    {
+        "year": 1929,
+        "month": 2,
+        "value": 17.1
+    },
+    {
+        "year": 1929,
+        "month": 3,
+        "value": 17.0
+    },
+    {
+        "year": 1929,
+        "month": 4,
+        "value": 16.9
+    },
+    {
+        "year": 1929,
+        "month": 5,
+        "value": 17.0
+    },
+    {
+        "year": 1929,
+        "month": 6,
+        "value": 17.1
+    },
+    {
+        "year": 1929,
+        "month": 7,
+        "value": 17.3
+    },
+    {
+        "year": 1929,
+        "month": 8,
+        "value": 17.3
+    },
+    {
+        "year": 1929,
+        "month": 9,
+        "value": 17.3
+    },
+    {
+        "year": 1929,
+        "month": 10,
+        "value": 17.3
+    },
+    {
+        "year": 1929,
+        "month": 11,
+        "value": 17.3
+    },
+    {
+        "year": 1929,
+        "month": 12,
+        "value": 17.2
+    },
+    {
+        "year": 1930,
+        "month": 1,
+        "value": 17.1
+    },
+    {
+        "year": 1930,
+        "month": 2,
+        "value": 17.0
+    },
+    {
+        "year": 1930,
+        "month": 3,
+        "value": 16.9
+    },
+    {
+        "year": 1930,
+        "month": 4,
+        "value": 17.0
+    },
+    {
+        "year": 1930,
+        "month": 5,
+        "value": 16.9
+    },
+    {
+        "year": 1930,
+        "month": 6,
+        "value": 16.8
+    },
+    {
+        "year": 1930,
+        "month": 7,
+        "value": 16.6
+    },
+    {
+        "year": 1930,
+        "month": 8,
+        "value": 16.5
+    },
+    {
+        "year": 1930,
+        "month": 9,
+        "value": 16.6
+    },
+    {
+        "year": 1930,
+        "month": 10,
+        "value": 16.5
+    },
+    {
+        "year": 1930,
+        "month": 11,
+        "value": 16.4
+    },
+    {
+        "year": 1930,
+        "month": 12,
+        "value": 16.1
+    },
+    {
+        "year": 1931,
+        "month": 1,
+        "value": 15.9
+    },
+    {
+        "year": 1931,
+        "month": 2,
+        "value": 15.7
+    },
+    {
+        "year": 1931,
+        "month": 3,
+        "value": 15.6
+    },
+    {
+        "year": 1931,
+        "month": 4,
+        "value": 15.5
+    },
+    {
+        "year": 1931,
+        "month": 5,
+        "value": 15.3
+    },
+    {
+        "year": 1931,
+        "month": 6,
+        "value": 15.1
+    },
+    {
+        "year": 1931,
+        "month": 7,
+        "value": 15.1
+    },
+    {
+        "year": 1931,
+        "month": 8,
+        "value": 15.1
+    },
+    {
+        "year": 1931,
+        "month": 9,
+        "value": 15.0
+    },
+    {
+        "year": 1931,
+        "month": 10,
+        "value": 14.9
+    },
+    {
+        "year": 1931,
+        "month": 11,
+        "value": 14.7
+    },
+    {
+        "year": 1931,
+        "month": 12,
+        "value": 14.6
+    },
+    {
+        "year": 1932,
+        "month": 1,
+        "value": 14.3
+    },
+    {
+        "year": 1932,
+        "month": 2,
+        "value": 14.1
+    },
+    {
+        "year": 1932,
+        "month": 3,
+        "value": 14.0
+    },
+    {
+        "year": 1932,
+        "month": 4,
+        "value": 13.9
+    },
+    {
+        "year": 1932,
+        "month": 5,
+        "value": 13.7
+    },
+    {
+        "year": 1932,
+        "month": 6,
+        "value": 13.6
+    },
+    {
+        "year": 1932,
+        "month": 7,
+        "value": 13.6
+    },
+    {
+        "year": 1932,
+        "month": 8,
+        "value": 13.5
+    },
+    {
+        "year": 1932,
+        "month": 9,
+        "value": 13.4
+    },
+    {
+        "year": 1932,
+        "month": 10,
+        "value": 13.3
+    },
+    {
+        "year": 1932,
+        "month": 11,
+        "value": 13.2
+    },
+    {
+        "year": 1932,
+        "month": 12,
+        "value": 13.1
+    },
+    {
+        "year": 1933,
+        "month": 1,
+        "value": 12.9
+    },
+    {
+        "year": 1933,
+        "month": 2,
+        "value": 12.7
+    },
+    {
+        "year": 1933,
+        "month": 3,
+        "value": 12.6
+    },
+    {
+        "year": 1933,
+        "month": 4,
+        "value": 12.6
+    },
+    {
+        "year": 1933,
+        "month": 5,
+        "value": 12.6
+    },
+    {
+        "year": 1933,
+        "month": 6,
+        "value": 12.7
+    },
+    {
+        "year": 1933,
+        "month": 7,
+        "value": 13.1
+    },
+    {
+        "year": 1933,
+        "month": 8,
+        "value": 13.2
+    },
+    {
+        "year": 1933,
+        "month": 9,
+        "value": 13.2
+    },
+    {
+        "year": 1933,
+        "month": 10,
+        "value": 13.2
+    },
+    {
+        "year": 1933,
+        "month": 11,
+        "value": 13.2
+    },
+    {
+        "year": 1933,
+        "month": 12,
+        "value": 13.2
+    },
+    {
+        "year": 1934,
+        "month": 1,
+        "value": 13.2
+    },
+    {
+        "year": 1934,
+        "month": 2,
+        "value": 13.3
+    },
+    {
+        "year": 1934,
+        "month": 3,
+        "value": 13.3
+    },
+    {
+        "year": 1934,
+        "month": 4,
+        "value": 13.3
+    },
+    {
+        "year": 1934,
+        "month": 5,
+        "value": 13.3
+    },
+    {
+        "year": 1934,
+        "month": 6,
+        "value": 13.4
+    },
+    {
+        "year": 1934,
+        "month": 7,
+        "value": 13.4
+    },
+    {
+        "year": 1934,
+        "month": 8,
+        "value": 13.4
+    },
+    {
+        "year": 1934,
+        "month": 9,
+        "value": 13.6
+    },
+    {
+        "year": 1934,
+        "month": 10,
+        "value": 13.5
+    },
+    {
+        "year": 1934,
+        "month": 11,
+        "value": 13.5
+    },
+    {
+        "year": 1934,
+        "month": 12,
+        "value": 13.4
+    },
+    {
+        "year": 1935,
+        "month": 1,
+        "value": 13.6
+    },
+    {
+        "year": 1935,
+        "month": 2,
+        "value": 13.7
+    },
+    {
+        "year": 1935,
+        "month": 3,
+        "value": 13.7
+    },
+    {
+        "year": 1935,
+        "month": 4,
+        "value": 13.8
+    },
+    {
+        "year": 1935,
+        "month": 5,
+        "value": 13.8
+    },
+    {
+        "year": 1935,
+        "month": 6,
+        "value": 13.7
+    },
+    {
+        "year": 1935,
+        "month": 7,
+        "value": 13.7
+    },
+    {
+        "year": 1935,
+        "month": 8,
+        "value": 13.7
+    },
+    {
+        "year": 1935,
+        "month": 9,
+        "value": 13.7
+    },
+    {
+        "year": 1935,
+        "month": 10,
+        "value": 13.7
+    },
+    {
+        "year": 1935,
+        "month": 11,
+        "value": 13.8
+    },
+    {
+        "year": 1935,
+        "month": 12,
+        "value": 13.8
+    },
+    {
+        "year": 1936,
+        "month": 1,
+        "value": 13.8
+    },
+    {
+        "year": 1936,
+        "month": 2,
+        "value": 13.8
+    },
+    {
+        "year": 1936,
+        "month": 3,
+        "value": 13.7
+    },
+    {
+        "year": 1936,
+        "month": 4,
+        "value": 13.7
+    },
+    {
+        "year": 1936,
+        "month": 5,
+        "value": 13.7
+    },
+    {
+        "year": 1936,
+        "month": 6,
+        "value": 13.8
+    },
+    {
+        "year": 1936,
+        "month": 7,
+        "value": 13.9
+    },
+    {
+        "year": 1936,
+        "month": 8,
+        "value": 14.0
+    },
+    {
+        "year": 1936,
+        "month": 9,
+        "value": 14.0
+    },
+    {
+        "year": 1936,
+        "month": 10,
+        "value": 14.0
+    },
+    {
+        "year": 1936,
+        "month": 11,
+        "value": 14.0
+    },
+    {
+        "year": 1936,
+        "month": 12,
+        "value": 14.0
+    },
+    {
+        "year": 1937,
+        "month": 1,
+        "value": 14.1
+    },
+    {
+        "year": 1937,
+        "month": 2,
+        "value": 14.1
+    },
+    {
+        "year": 1937,
+        "month": 3,
+        "value": 14.2
+    },
+    {
+        "year": 1937,
+        "month": 4,
+        "value": 14.3
+    },
+    {
+        "year": 1937,
+        "month": 5,
+        "value": 14.4
+    },
+    {
+        "year": 1937,
+        "month": 6,
+        "value": 14.4
+    },
+    {
+        "year": 1937,
+        "month": 7,
+        "value": 14.5
+    },
+    {
+        "year": 1937,
+        "month": 8,
+        "value": 14.5
+    },
+    {
+        "year": 1937,
+        "month": 9,
+        "value": 14.6
+    },
+    {
+        "year": 1937,
+        "month": 10,
+        "value": 14.6
+    },
+    {
+        "year": 1937,
+        "month": 11,
+        "value": 14.5
+    },
+    {
+        "year": 1937,
+        "month": 12,
+        "value": 14.4
+    },
+    {
+        "year": 1938,
+        "month": 1,
+        "value": 14.2
+    },
+    {
+        "year": 1938,
+        "month": 2,
+        "value": 14.1
+    },
+    {
+        "year": 1938,
+        "month": 3,
+        "value": 14.1
+    },
+    {
+        "year": 1938,
+        "month": 4,
+        "value": 14.2
+    },
+    {
+        "year": 1938,
+        "month": 5,
+        "value": 14.1
+    },
+    {
+        "year": 1938,
+        "month": 6,
+        "value": 14.1
+    },
+    {
+        "year": 1938,
+        "month": 7,
+        "value": 14.1
+    },
+    {
+        "year": 1938,
+        "month": 8,
+        "value": 14.1
+    },
+    {
+        "year": 1938,
+        "month": 9,
+        "value": 14.1
+    },
+    {
+        "year": 1938,
+        "month": 10,
+        "value": 14.0
+    },
+    {
+        "year": 1938,
+        "month": 11,
+        "value": 14.0
+    },
+    {
+        "year": 1938,
+        "month": 12,
+        "value": 14.0
+    },
+    {
+        "year": 1939,
+        "month": 1,
+        "value": 14.0
+    },
+    {
+        "year": 1939,
+        "month": 2,
+        "value": 13.9
+    },
+    {
+        "year": 1939,
+        "month": 3,
+        "value": 13.9
+    },
+    {
+        "year": 1939,
+        "month": 4,
+        "value": 13.8
+    },
+    {
+        "year": 1939,
+        "month": 5,
+        "value": 13.8
+    },
+    {
+        "year": 1939,
+        "month": 6,
+        "value": 13.8
+    },
+    {
+        "year": 1939,
+        "month": 7,
+        "value": 13.8
+    },
+    {
+        "year": 1939,
+        "month": 8,
+        "value": 13.8
+    },
+    {
+        "year": 1939,
+        "month": 9,
+        "value": 14.1
+    },
+    {
+        "year": 1939,
+        "month": 10,
+        "value": 14.0
+    },
+    {
+        "year": 1939,
+        "month": 11,
+        "value": 14.0
+    },
+    {
+        "year": 1939,
+        "month": 12,
+        "value": 14.0
+    },
+    {
+        "year": 1940,
+        "month": 1,
+        "value": 13.9
+    },
+    {
+        "year": 1940,
+        "month": 2,
+        "value": 14.0
+    },
+    {
+        "year": 1940,
+        "month": 3,
+        "value": 14.0
+    },
+    {
+        "year": 1940,
+        "month": 4,
+        "value": 14.0
+    },
+    {
+        "year": 1940,
+        "month": 5,
+        "value": 14.0
+    },
+    {
+        "year": 1940,
+        "month": 6,
+        "value": 14.1
+    },
+    {
+        "year": 1940,
+        "month": 7,
+        "value": 14.0
+    },
+    {
+        "year": 1940,
+        "month": 8,
+        "value": 14.0
+    },
+    {
+        "year": 1940,
+        "month": 9,
+        "value": 14.0
+    },
+    {
+        "year": 1940,
+        "month": 10,
+        "value": 14.0
+    },
+    {
+        "year": 1940,
+        "month": 11,
+        "value": 14.0
+    },
+    {
+        "year": 1940,
+        "month": 12,
+        "value": 14.1
+    },
+    {
+        "year": 1941,
+        "month": 1,
+        "value": 14.1
+    },
+    {
+        "year": 1941,
+        "month": 2,
+        "value": 14.1
+    },
+    {
+        "year": 1941,
+        "month": 3,
+        "value": 14.2
+    },
+    {
+        "year": 1941,
+        "month": 4,
+        "value": 14.3
+    },
+    {
+        "year": 1941,
+        "month": 5,
+        "value": 14.4
+    },
+    {
+        "year": 1941,
+        "month": 6,
+        "value": 14.7
+    },
+    {
+        "year": 1941,
+        "month": 7,
+        "value": 14.7
+    },
+    {
+        "year": 1941,
+        "month": 8,
+        "value": 14.9
+    },
+    {
+        "year": 1941,
+        "month": 9,
+        "value": 15.1
+    },
+    {
+        "year": 1941,
+        "month": 10,
+        "value": 15.3
+    },
+    {
+        "year": 1941,
+        "month": 11,
+        "value": 15.4
+    },
+    {
+        "year": 1941,
+        "month": 12,
+        "value": 15.5
+    },
+    {
+        "year": 1942,
+        "month": 1,
+        "value": 15.7
+    },
+    {
+        "year": 1942,
+        "month": 2,
+        "value": 15.8
+    },
+    {
+        "year": 1942,
+        "month": 3,
+        "value": 16.0
+    },
+    {
+        "year": 1942,
+        "month": 4,
+        "value": 16.1
+    },
+    {
+        "year": 1942,
+        "month": 5,
+        "value": 16.3
+    },
+    {
+        "year": 1942,
+        "month": 6,
+        "value": 16.3
+    },
+    {
+        "year": 1942,
+        "month": 7,
+        "value": 16.4
+    },
+    {
+        "year": 1942,
+        "month": 8,
+        "value": 16.5
+    },
+    {
+        "year": 1942,
+        "month": 9,
+        "value": 16.5
+    },
+    {
+        "year": 1942,
+        "month": 10,
+        "value": 16.7
+    },
+    {
+        "year": 1942,
+        "month": 11,
+        "value": 16.8
+    },
+    {
+        "year": 1942,
+        "month": 12,
+        "value": 16.9
+    },
+    {
+        "year": 1943,
+        "month": 1,
+        "value": 16.9
+    },
+    {
+        "year": 1943,
+        "month": 2,
+        "value": 16.9
+    },
+    {
+        "year": 1943,
+        "month": 3,
+        "value": 17.2
+    },
+    {
+        "year": 1943,
+        "month": 4,
+        "value": 17.4
+    },
+    {
+        "year": 1943,
+        "month": 5,
+        "value": 17.5
+    },
+    {
+        "year": 1943,
+        "month": 6,
+        "value": 17.5
+    },
+    {
+        "year": 1943,
+        "month": 7,
+        "value": 17.4
+    },
+    {
+        "year": 1943,
+        "month": 8,
+        "value": 17.3
+    },
+    {
+        "year": 1943,
+        "month": 9,
+        "value": 17.4
+    },
+    {
+        "year": 1943,
+        "month": 10,
+        "value": 17.4
+    },
+    {
+        "year": 1943,
+        "month": 11,
+        "value": 17.4
+    },
+    {
+        "year": 1943,
+        "month": 12,
+        "value": 17.4
+    },
+    {
+        "year": 1944,
+        "month": 1,
+        "value": 17.4
+    },
+    {
+        "year": 1944,
+        "month": 2,
+        "value": 17.4
+    },
+    {
+        "year": 1944,
+        "month": 3,
+        "value": 17.4
+    },
+    {
+        "year": 1944,
+        "month": 4,
+        "value": 17.5
+    },
+    {
+        "year": 1944,
+        "month": 5,
+        "value": 17.5
+    },
+    {
+        "year": 1944,
+        "month": 6,
+        "value": 17.6
+    },
+    {
+        "year": 1944,
+        "month": 7,
+        "value": 17.7
+    },
+    {
+        "year": 1944,
+        "month": 8,
+        "value": 17.7
+    },
+    {
+        "year": 1944,
+        "month": 9,
+        "value": 17.7
+    },
+    {
+        "year": 1944,
+        "month": 10,
+        "value": 17.7
+    },
+    {
+        "year": 1944,
+        "month": 11,
+        "value": 17.7
+    },
+    {
+        "year": 1944,
+        "month": 12,
+        "value": 17.8
+    },
+    {
+        "year": 1945,
+        "month": 1,
+        "value": 17.8
+    },
+    {
+        "year": 1945,
+        "month": 2,
+        "value": 17.8
+    },
+    {
+        "year": 1945,
+        "month": 3,
+        "value": 17.8
+    },
+    {
+        "year": 1945,
+        "month": 4,
+        "value": 17.8
+    },
+    {
+        "year": 1945,
+        "month": 5,
+        "value": 17.9
+    },
+    {
+        "year": 1945,
+        "month": 6,
+        "value": 18.1
+    },
+    {
+        "year": 1945,
+        "month": 7,
+        "value": 18.1
+    },
+    {
+        "year": 1945,
+        "month": 8,
+        "value": 18.1
+    },
+    {
+        "year": 1945,
+        "month": 9,
+        "value": 18.1
+    },
+    {
+        "year": 1945,
+        "month": 10,
+        "value": 18.1
+    },
+    {
+        "year": 1945,
+        "month": 11,
+        "value": 18.1
+    },
+    {
+        "year": 1945,
+        "month": 12,
+        "value": 18.2
+    },
+    {
+        "year": 1946,
+        "month": 1,
+        "value": 18.2
+    },
+    {
+        "year": 1946,
+        "month": 2,
+        "value": 18.1
+    },
+    {
+        "year": 1946,
+        "month": 3,
+        "value": 18.3
+    },
+    {
+        "year": 1946,
+        "month": 4,
+        "value": 18.4
+    },
+    {
+        "year": 1946,
+        "month": 5,
+        "value": 18.5
+    },
+    {
+        "year": 1946,
+        "month": 6,
+        "value": 18.7
+    },
+    {
+        "year": 1946,
+        "month": 7,
+        "value": 19.8
+    },
+    {
+        "year": 1946,
+        "month": 8,
+        "value": 20.2
+    },
+    {
+        "year": 1946,
+        "month": 9,
+        "value": 20.4
+    },
+    {
+        "year": 1946,
+        "month": 10,
+        "value": 20.8
+    },
+    {
+        "year": 1946,
+        "month": 11,
+        "value": 21.3
+    },
+    {
+        "year": 1946,
+        "month": 12,
+        "value": 21.5
+    },
+    {
+        "year": 1947,
+        "month": 1,
+        "value": 21.5
+    },
+    {
+        "year": 1947,
+        "month": 2,
+        "value": 21.5
+    },
+    {
+        "year": 1947,
+        "month": 3,
+        "value": 21.9
+    },
+    {
+        "year": 1947,
+        "month": 4,
+        "value": 21.9
+    },
+    {
+        "year": 1947,
+        "month": 5,
+        "value": 21.9
+    },
+    {
+        "year": 1947,
+        "month": 6,
+        "value": 22.0
+    },
+    {
+        "year": 1947,
+        "month": 7,
+        "value": 22.2
+    },
+    {
+        "year": 1947,
+        "month": 8,
+        "value": 22.5
+    },
+    {
+        "year": 1947,
+        "month": 9,
+        "value": 23.0
+    },
+    {
+        "year": 1947,
+        "month": 10,
+        "value": 23.0
+    },
+    {
+        "year": 1947,
+        "month": 11,
+        "value": 23.1
+    },
+    {
+        "year": 1947,
+        "month": 12,
+        "value": 23.4
+    },
+    {
+        "year": 1948,
+        "month": 1,
+        "value": 23.7
+    },
+    {
+        "year": 1948,
+        "month": 2,
+        "value": 23.5
+    },
+    {
+        "year": 1948,
+        "month": 3,
+        "value": 23.4
+    },
+    {
+        "year": 1948,
+        "month": 4,
+        "value": 23.8
+    },
+    {
+        "year": 1948,
+        "month": 5,
+        "value": 23.9
+    },
+    {
+        "year": 1948,
+        "month": 6,
+        "value": 24.1
+    },
+    {
+        "year": 1948,
+        "month": 7,
+        "value": 24.4
+    },
+    {
+        "year": 1948,
+        "month": 8,
+        "value": 24.5
+    },
+    {
+        "year": 1948,
+        "month": 9,
+        "value": 24.5
+    },
+    {
+        "year": 1948,
+        "month": 10,
+        "value": 24.4
+    },
+    {
+        "year": 1948,
+        "month": 11,
+        "value": 24.2
+    },
+    {
+        "year": 1948,
+        "month": 12,
+        "value": 24.1
+    },
+    {
+        "year": 1949,
+        "month": 1,
+        "value": 24.0
+    },
+    {
+        "year": 1949,
+        "month": 2,
+        "value": 23.8
+    },
+    {
+        "year": 1949,
+        "month": 3,
+        "value": 23.8
+    },
+    {
+        "year": 1949,
+        "month": 4,
+        "value": 23.9
+    },
+    {
+        "year": 1949,
+        "month": 5,
+        "value": 23.8
+    },
+    {
+        "year": 1949,
+        "month": 6,
+        "value": 23.9
+    },
+    {
+        "year": 1949,
+        "month": 7,
+        "value": 23.7
+    },
+    {
+        "year": 1949,
+        "month": 8,
+        "value": 23.8
+    },
+    {
+        "year": 1949,
+        "month": 9,
+        "value": 23.9
+    },
+    {
+        "year": 1949,
+        "month": 10,
+        "value": 23.7
+    },
+    {
+        "year": 1949,
+        "month": 11,
+        "value": 23.8
+    },
+    {
+        "year": 1949,
+        "month": 12,
+        "value": 23.6
+    },
+    {
+        "year": 1950,
+        "month": 1,
+        "value": 23.5
+    },
+    {
+        "year": 1950,
+        "month": 2,
+        "value": 23.5
+    },
+    {
+        "year": 1950,
+        "month": 3,
+        "value": 23.6
+    },
+    {
+        "year": 1950,
+        "month": 4,
+        "value": 23.6
+    },
+    {
+        "year": 1950,
+        "month": 5,
+        "value": 23.7
+    },
+    {
+        "year": 1950,
+        "month": 6,
+        "value": 23.8
+    },
+    {
+        "year": 1950,
+        "month": 7,
+        "value": 24.1
+    },
+    {
+        "year": 1950,
+        "month": 8,
+        "value": 24.3
+    },
+    {
+        "year": 1950,
+        "month": 9,
+        "value": 24.4
+    },
+    {
+        "year": 1950,
+        "month": 10,
+        "value": 24.6
+    },
+    {
+        "year": 1950,
+        "month": 11,
+        "value": 24.7
+    },
+    {
+        "year": 1950,
+        "month": 12,
+        "value": 25.0
+    },
+    {
+        "year": 1951,
+        "month": 1,
+        "value": 25.4
+    },
+    {
+        "year": 1951,
+        "month": 2,
+        "value": 25.7
+    },
+    {
+        "year": 1951,
+        "month": 3,
+        "value": 25.8
+    },
+    {
+        "year": 1951,
+        "month": 4,
+        "value": 25.8
+    },
+    {
+        "year": 1951,
+        "month": 5,
+        "value": 25.9
+    },
+    {
+        "year": 1951,
+        "month": 6,
+        "value": 25.9
+    },
+    {
+        "year": 1951,
+        "month": 7,
+        "value": 25.9
+    },
+    {
+        "year": 1951,
+        "month": 8,
+        "value": 25.9
+    },
+    {
+        "year": 1951,
+        "month": 9,
+        "value": 26.1
+    },
+    {
+        "year": 1951,
+        "month": 10,
+        "value": 26.2
+    },
+    {
+        "year": 1951,
+        "month": 11,
+        "value": 26.4
+    },
+    {
+        "year": 1951,
+        "month": 12,
+        "value": 26.5
+    },
+    {
+        "year": 1952,
+        "month": 1,
+        "value": 26.5
+    },
+    {
+        "year": 1952,
+        "month": 2,
+        "value": 26.3
+    },
+    {
+        "year": 1952,
+        "month": 3,
+        "value": 26.3
+    },
+    {
+        "year": 1952,
+        "month": 4,
+        "value": 26.4
+    },
+    {
+        "year": 1952,
+        "month": 5,
+        "value": 26.4
+    },
+    {
+        "year": 1952,
+        "month": 6,
+        "value": 26.5
+    },
+    {
+        "year": 1952,
+        "month": 7,
+        "value": 26.7
+    },
+    {
+        "year": 1952,
+        "month": 8,
+        "value": 26.7
+    },
+    {
+        "year": 1952,
+        "month": 9,
+        "value": 26.7
+    },
+    {
+        "year": 1952,
+        "month": 10,
+        "value": 26.7
+    },
+    {
+        "year": 1952,
+        "month": 11,
+        "value": 26.7
+    },
+    {
+        "year": 1952,
+        "month": 12,
+        "value": 26.7
+    },
+    {
+        "year": 1953,
+        "month": 1,
+        "value": 26.6
+    },
+    {
+        "year": 1953,
+        "month": 2,
+        "value": 26.5
+    },
+    {
+        "year": 1953,
+        "month": 3,
+        "value": 26.6
+    },
+    {
+        "year": 1953,
+        "month": 4,
+        "value": 26.6
+    },
+    {
+        "year": 1953,
+        "month": 5,
+        "value": 26.7
+    },
+    {
+        "year": 1953,
+        "month": 6,
+        "value": 26.8
+    },
+    {
+        "year": 1953,
+        "month": 7,
+        "value": 26.8
+    },
+    {
+        "year": 1953,
+        "month": 8,
+        "value": 26.9
+    },
+    {
+        "year": 1953,
+        "month": 9,
+        "value": 26.9
+    },
+    {
+        "year": 1953,
+        "month": 10,
+        "value": 27.0
+    },
+    {
+        "year": 1953,
+        "month": 11,
+        "value": 26.9
+    },
+    {
+        "year": 1953,
+        "month": 12,
+        "value": 26.9
+    },
+    {
+        "year": 1954,
+        "month": 1,
+        "value": 26.9
+    },
+    {
+        "year": 1954,
+        "month": 2,
+        "value": 26.9
+    },
+    {
+        "year": 1954,
+        "month": 3,
+        "value": 26.9
+    },
+    {
+        "year": 1954,
+        "month": 4,
+        "value": 26.8
+    },
+    {
+        "year": 1954,
+        "month": 5,
+        "value": 26.9
+    },
+    {
+        "year": 1954,
+        "month": 6,
+        "value": 26.9
+    },
+    {
+        "year": 1954,
+        "month": 7,
+        "value": 26.9
+    },
+    {
+        "year": 1954,
+        "month": 8,
+        "value": 26.9
+    },
+    {
+        "year": 1954,
+        "month": 9,
+        "value": 26.8
+    },
+    {
+        "year": 1954,
+        "month": 10,
+        "value": 26.8
+    },
+    {
+        "year": 1954,
+        "month": 11,
+        "value": 26.8
+    },
+    {
+        "year": 1954,
+        "month": 12,
+        "value": 26.7
+    },
+    {
+        "year": 1955,
+        "month": 1,
+        "value": 26.7
+    },
+    {
+        "year": 1955,
+        "month": 2,
+        "value": 26.7
+    },
+    {
+        "year": 1955,
+        "month": 3,
+        "value": 26.7
+    },
+    {
+        "year": 1955,
+        "month": 4,
+        "value": 26.7
+    },
+    {
+        "year": 1955,
+        "month": 5,
+        "value": 26.7
+    },
+    {
+        "year": 1955,
+        "month": 6,
+        "value": 26.7
+    },
+    {
+        "year": 1955,
+        "month": 7,
+        "value": 26.8
+    },
+    {
+        "year": 1955,
+        "month": 8,
+        "value": 26.8
+    },
+    {
+        "year": 1955,
+        "month": 9,
+        "value": 26.9
+    },
+    {
+        "year": 1955,
+        "month": 10,
+        "value": 26.9
+    },
+    {
+        "year": 1955,
+        "month": 11,
+        "value": 26.9
+    },
+    {
+        "year": 1955,
+        "month": 12,
+        "value": 26.8
+    },
+    {
+        "year": 1956,
+        "month": 1,
+        "value": 26.8
+    },
+    {
+        "year": 1956,
+        "month": 2,
+        "value": 26.8
+    },
+    {
+        "year": 1956,
+        "month": 3,
+        "value": 26.8
+    },
+    {
+        "year": 1956,
+        "month": 4,
+        "value": 26.9
+    },
+    {
+        "year": 1956,
+        "month": 5,
+        "value": 27.0
+    },
+    {
+        "year": 1956,
+        "month": 6,
+        "value": 27.2
+    },
+    {
+        "year": 1956,
+        "month": 7,
+        "value": 27.4
+    },
+    {
+        "year": 1956,
+        "month": 8,
+        "value": 27.3
+    },
+    {
+        "year": 1956,
+        "month": 9,
+        "value": 27.4
+    },
+    {
+        "year": 1956,
+        "month": 10,
+        "value": 27.5
+    },
+    {
+        "year": 1956,
+        "month": 11,
+        "value": 27.5
+    },
+    {
+        "year": 1956,
+        "month": 12,
+        "value": 27.6
+    },
+    {
+        "year": 1957,
+        "month": 1,
+        "value": 27.6
+    },
+    {
+        "year": 1957,
+        "month": 2,
+        "value": 27.7
+    },
+    {
+        "year": 1957,
+        "month": 3,
+        "value": 27.8
+    },
+    {
+        "year": 1957,
+        "month": 4,
+        "value": 27.9
+    },
+    {
+        "year": 1957,
+        "month": 5,
+        "value": 28.0
+    },
+    {
+        "year": 1957,
+        "month": 6,
+        "value": 28.1
+    },
+    {
+        "year": 1957,
+        "month": 7,
+        "value": 28.3
+    },
+    {
+        "year": 1957,
+        "month": 8,
+        "value": 28.3
+    },
+    {
+        "year": 1957,
+        "month": 9,
+        "value": 28.3
+    },
+    {
+        "year": 1957,
+        "month": 10,
+        "value": 28.3
+    },
+    {
+        "year": 1957,
+        "month": 11,
+        "value": 28.4
+    },
+    {
+        "year": 1957,
+        "month": 12,
+        "value": 28.4
+    },
+    {
+        "year": 1958,
+        "month": 1,
+        "value": 28.6
+    },
+    {
+        "year": 1958,
+        "month": 2,
+        "value": 28.6
+    },
+    {
+        "year": 1958,
+        "month": 3,
+        "value": 28.8
+    },
+    {
+        "year": 1958,
+        "month": 4,
+        "value": 28.9
+    },
+    {
+        "year": 1958,
+        "month": 5,
+        "value": 28.9
+    },
+    {
+        "year": 1958,
+        "month": 6,
+        "value": 28.9
+    },
+    {
+        "year": 1958,
+        "month": 7,
+        "value": 29.0
+    },
+    {
+        "year": 1958,
+        "month": 8,
+        "value": 28.9
+    },
+    {
+        "year": 1958,
+        "month": 9,
+        "value": 28.9
+    },
+    {
+        "year": 1958,
+        "month": 10,
+        "value": 28.9
+    },
+    {
+        "year": 1958,
+        "month": 11,
+        "value": 29.0
+    },
+    {
+        "year": 1958,
+        "month": 12,
+        "value": 28.9
+    },
+    {
+        "year": 1959,
+        "month": 1,
+        "value": 29.0
+    },
+    {
+        "year": 1959,
+        "month": 2,
+        "value": 28.9
+    },
+    {
+        "year": 1959,
+        "month": 3,
+        "value": 28.9
+    },
+    {
+        "year": 1959,
+        "month": 4,
+        "value": 29.0
+    },
+    {
+        "year": 1959,
+        "month": 5,
+        "value": 29.0
+    },
+    {
+        "year": 1959,
+        "month": 6,
+        "value": 29.1
+    },
+    {
+        "year": 1959,
+        "month": 7,
+        "value": 29.2
+    },
+    {
+        "year": 1959,
+        "month": 8,
+        "value": 29.2
+    },
+    {
+        "year": 1959,
+        "month": 9,
+        "value": 29.3
+    },
+    {
+        "year": 1959,
+        "month": 10,
+        "value": 29.4
+    },
+    {
+        "year": 1959,
+        "month": 11,
+        "value": 29.4
+    },
+    {
+        "year": 1959,
+        "month": 12,
+        "value": 29.4
+    },
+    {
+        "year": 1960,
+        "month": 1,
+        "value": 29.3
+    },
+    {
+        "year": 1960,
+        "month": 2,
+        "value": 29.4
+    },
+    {
+        "year": 1960,
+        "month": 3,
+        "value": 29.4
+    },
+    {
+        "year": 1960,
+        "month": 4,
+        "value": 29.5
+    },
+    {
+        "year": 1960,
+        "month": 5,
+        "value": 29.5
+    },
+    {
+        "year": 1960,
+        "month": 6,
+        "value": 29.6
+    },
+    {
+        "year": 1960,
+        "month": 7,
+        "value": 29.6
+    },
+    {
+        "year": 1960,
+        "month": 8,
+        "value": 29.6
+    },
+    {
+        "year": 1960,
+        "month": 9,
+        "value": 29.6
+    },
+    {
+        "year": 1960,
+        "month": 10,
+        "value": 29.8
+    },
+    {
+        "year": 1960,
+        "month": 11,
+        "value": 29.8
+    },
+    {
+        "year": 1960,
+        "month": 12,
+        "value": 29.8
+    },
+    {
+        "year": 1961,
+        "month": 1,
+        "value": 29.8
+    },
+    {
+        "year": 1961,
+        "month": 2,
+        "value": 29.8
+    },
+    {
+        "year": 1961,
+        "month": 3,
+        "value": 29.8
+    },
+    {
+        "year": 1961,
+        "month": 4,
+        "value": 29.8
+    },
+    {
+        "year": 1961,
+        "month": 5,
+        "value": 29.8
+    },
+    {
+        "year": 1961,
+        "month": 6,
+        "value": 29.8
+    },
+    {
+        "year": 1961,
+        "month": 7,
+        "value": 30.0
+    },
+    {
+        "year": 1961,
+        "month": 8,
+        "value": 29.9
+    },
+    {
+        "year": 1961,
+        "month": 9,
+        "value": 30.0
+    },
+    {
+        "year": 1961,
+        "month": 10,
+        "value": 30.0
+    },
+    {
+        "year": 1961,
+        "month": 11,
+        "value": 30.0
+    },
+    {
+        "year": 1961,
+        "month": 12,
+        "value": 30.0
+    },
+    {
+        "year": 1962,
+        "month": 1,
+        "value": 30.0
+    },
+    {
+        "year": 1962,
+        "month": 2,
+        "value": 30.1
+    },
+    {
+        "year": 1962,
+        "month": 3,
+        "value": 30.1
+    },
+    {
+        "year": 1962,
+        "month": 4,
+        "value": 30.2
+    },
+    {
+        "year": 1962,
+        "month": 5,
+        "value": 30.2
+    },
+    {
+        "year": 1962,
+        "month": 6,
+        "value": 30.2
+    },
+    {
+        "year": 1962,
+        "month": 7,
+        "value": 30.3
+    },
+    {
+        "year": 1962,
+        "month": 8,
+        "value": 30.3
+    },
+    {
+        "year": 1962,
+        "month": 9,
+        "value": 30.4
+    },
+    {
+        "year": 1962,
+        "month": 10,
+        "value": 30.4
+    },
+    {
+        "year": 1962,
+        "month": 11,
+        "value": 30.4
+    },
+    {
+        "year": 1962,
+        "month": 12,
+        "value": 30.4
+    },
+    {
+        "year": 1963,
+        "month": 1,
+        "value": 30.4
+    },
+    {
+        "year": 1963,
+        "month": 2,
+        "value": 30.4
+    },
+    {
+        "year": 1963,
+        "month": 3,
+        "value": 30.5
+    },
+    {
+        "year": 1963,
+        "month": 4,
+        "value": 30.5
+    },
+    {
+        "year": 1963,
+        "month": 5,
+        "value": 30.5
+    },
+    {
+        "year": 1963,
+        "month": 6,
+        "value": 30.6
+    },
+    {
+        "year": 1963,
+        "month": 7,
+        "value": 30.7
+    },
+    {
+        "year": 1963,
+        "month": 8,
+        "value": 30.7
+    },
+    {
+        "year": 1963,
+        "month": 9,
+        "value": 30.7
+    },
+    {
+        "year": 1963,
+        "month": 10,
+        "value": 30.8
+    },
+    {
+        "year": 1963,
+        "month": 11,
+        "value": 30.8
+    },
+    {
+        "year": 1963,
+        "month": 12,
+        "value": 30.9
+    },
+    {
+        "year": 1964,
+        "month": 1,
+        "value": 30.9
+    },
+    {
+        "year": 1964,
+        "month": 2,
+        "value": 30.9
+    },
+    {
+        "year": 1964,
+        "month": 3,
+        "value": 30.9
+    },
+    {
+        "year": 1964,
+        "month": 4,
+        "value": 30.9
+    },
+    {
+        "year": 1964,
+        "month": 5,
+        "value": 30.9
+    },
+    {
+        "year": 1964,
+        "month": 6,
+        "value": 31.0
+    },
+    {
+        "year": 1964,
+        "month": 7,
+        "value": 31.1
+    },
+    {
+        "year": 1964,
+        "month": 8,
+        "value": 31.0
+    },
+    {
+        "year": 1964,
+        "month": 9,
+        "value": 31.1
+    },
+    {
+        "year": 1964,
+        "month": 10,
+        "value": 31.1
+    },
+    {
+        "year": 1964,
+        "month": 11,
+        "value": 31.2
+    },
+    {
+        "year": 1964,
+        "month": 12,
+        "value": 31.2
+    },
+    {
+        "year": 1965,
+        "month": 1,
+        "value": 31.2
+    },
+    {
+        "year": 1965,
+        "month": 2,
+        "value": 31.2
+    },
+    {
+        "year": 1965,
+        "month": 3,
+        "value": 31.3
+    },
+    {
+        "year": 1965,
+        "month": 4,
+        "value": 31.4
+    },
+    {
+        "year": 1965,
+        "month": 5,
+        "value": 31.4
+    },
+    {
+        "year": 1965,
+        "month": 6,
+        "value": 31.6
+    },
+    {
+        "year": 1965,
+        "month": 7,
+        "value": 31.6
+    },
+    {
+        "year": 1965,
+        "month": 8,
+        "value": 31.6
+    },
+    {
+        "year": 1965,
+        "month": 9,
+        "value": 31.6
+    },
+    {
+        "year": 1965,
+        "month": 10,
+        "value": 31.7
+    },
+    {
+        "year": 1965,
+        "month": 11,
+        "value": 31.7
+    },
+    {
+        "year": 1965,
+        "month": 12,
+        "value": 31.8
+    },
+    {
+        "year": 1966,
+        "month": 1,
+        "value": 31.8
+    },
+    {
+        "year": 1966,
+        "month": 2,
+        "value": 32.0
+    },
+    {
+        "year": 1966,
+        "month": 3,
+        "value": 32.1
+    },
+    {
+        "year": 1966,
+        "month": 4,
+        "value": 32.3
+    },
+    {
+        "year": 1966,
+        "month": 5,
+        "value": 32.3
+    },
+    {
+        "year": 1966,
+        "month": 6,
+        "value": 32.4
+    },
+    {
+        "year": 1966,
+        "month": 7,
+        "value": 32.5
+    },
+    {
+        "year": 1966,
+        "month": 8,
+        "value": 32.7
+    },
+    {
+        "year": 1966,
+        "month": 9,
+        "value": 32.7
+    },
+    {
+        "year": 1966,
+        "month": 10,
+        "value": 32.9
+    },
+    {
+        "year": 1966,
+        "month": 11,
+        "value": 32.9
+    },
+    {
+        "year": 1966,
+        "month": 12,
+        "value": 32.9
+    },
+    {
+        "year": 1967,
+        "month": 1,
+        "value": 32.9
+    },
+    {
+        "year": 1967,
+        "month": 2,
+        "value": 32.9
+    },
+    {
+        "year": 1967,
+        "month": 3,
+        "value": 33.0
+    },
+    {
+        "year": 1967,
+        "month": 4,
+        "value": 33.1
+    },
+    {
+        "year": 1967,
+        "month": 5,
+        "value": 33.2
+    },
+    {
+        "year": 1967,
+        "month": 6,
+        "value": 33.3
+    },
+    {
+        "year": 1967,
+        "month": 7,
+        "value": 33.4
+    },
+    {
+        "year": 1967,
+        "month": 8,
+        "value": 33.5
+    },
+    {
+        "year": 1967,
+        "month": 9,
+        "value": 33.6
+    },
+    {
+        "year": 1967,
+        "month": 10,
+        "value": 33.7
+    },
+    {
+        "year": 1967,
+        "month": 11,
+        "value": 33.8
+    },
+    {
+        "year": 1967,
+        "month": 12,
+        "value": 33.9
+    },
+    {
+        "year": 1968,
+        "month": 1,
+        "value": 34.1
+    },
+    {
+        "year": 1968,
+        "month": 2,
+        "value": 34.2
+    },
+    {
+        "year": 1968,
+        "month": 3,
+        "value": 34.3
+    },
+    {
+        "year": 1968,
+        "month": 4,
+        "value": 34.4
+    },
+    {
+        "year": 1968,
+        "month": 5,
+        "value": 34.5
+    },
+    {
+        "year": 1968,
+        "month": 6,
+        "value": 34.7
+    },
+    {
+        "year": 1968,
+        "month": 7,
+        "value": 34.9
+    },
+    {
+        "year": 1968,
+        "month": 8,
+        "value": 35.0
+    },
+    {
+        "year": 1968,
+        "month": 9,
+        "value": 35.1
+    },
+    {
+        "year": 1968,
+        "month": 10,
+        "value": 35.3
+    },
+    {
+        "year": 1968,
+        "month": 11,
+        "value": 35.4
+    },
+    {
+        "year": 1968,
+        "month": 12,
+        "value": 35.5
+    },
+    {
+        "year": 1969,
+        "month": 1,
+        "value": 35.6
+    },
+    {
+        "year": 1969,
+        "month": 2,
+        "value": 35.8
+    },
+    {
+        "year": 1969,
+        "month": 3,
+        "value": 36.1
+    },
+    {
+        "year": 1969,
+        "month": 4,
+        "value": 36.3
+    },
+    {
+        "year": 1969,
+        "month": 5,
+        "value": 36.4
+    },
+    {
+        "year": 1969,
+        "month": 6,
+        "value": 36.6
+    },
+    {
+        "year": 1969,
+        "month": 7,
+        "value": 36.8
+    },
+    {
+        "year": 1969,
+        "month": 8,
+        "value": 37.0
+    },
+    {
+        "year": 1969,
+        "month": 9,
+        "value": 37.1
+    },
+    {
+        "year": 1969,
+        "month": 10,
+        "value": 37.3
+    },
+    {
+        "year": 1969,
+        "month": 11,
+        "value": 37.5
+    },
+    {
+        "year": 1969,
+        "month": 12,
+        "value": 37.7
+    },
+    {
+        "year": 1970,
+        "month": 1,
+        "value": 37.8
+    },
+    {
+        "year": 1970,
+        "month": 2,
+        "value": 38.0
+    },
+    {
+        "year": 1970,
+        "month": 3,
+        "value": 38.2
+    },
+    {
+        "year": 1970,
+        "month": 4,
+        "value": 38.5
+    },
+    {
+        "year": 1970,
+        "month": 5,
+        "value": 38.6
+    },
+    {
+        "year": 1970,
+        "month": 6,
+        "value": 38.8
+    },
+    {
+        "year": 1970,
+        "month": 7,
+        "value": 39.0
+    },
+    {
+        "year": 1970,
+        "month": 8,
+        "value": 39.0
+    },
+    {
+        "year": 1970,
+        "month": 9,
+        "value": 39.2
+    },
+    {
+        "year": 1970,
+        "month": 10,
+        "value": 39.4
+    },
+    {
+        "year": 1970,
+        "month": 11,
+        "value": 39.6
+    },
+    {
+        "year": 1970,
+        "month": 12,
+        "value": 39.8
+    },
+    {
+        "year": 1971,
+        "month": 1,
+        "value": 39.8
+    },
+    {
+        "year": 1971,
+        "month": 2,
+        "value": 39.9
+    },
+    {
+        "year": 1971,
+        "month": 3,
+        "value": 40.0
+    },
+    {
+        "year": 1971,
+        "month": 4,
+        "value": 40.1
+    },
+    {
+        "year": 1971,
+        "month": 5,
+        "value": 40.3
+    },
+    {
+        "year": 1971,
+        "month": 6,
+        "value": 40.6
+    },
+    {
+        "year": 1971,
+        "month": 7,
+        "value": 40.7
+    },
+    {
+        "year": 1971,
+        "month": 8,
+        "value": 40.8
+    },
+    {
+        "year": 1971,
+        "month": 9,
+        "value": 40.8
+    },
+    {
+        "year": 1971,
+        "month": 10,
+        "value": 40.9
+    },
+    {
+        "year": 1971,
+        "month": 11,
+        "value": 40.9
+    },
+    {
+        "year": 1971,
+        "month": 12,
+        "value": 41.1
+    },
+    {
+        "year": 1972,
+        "month": 1,
+        "value": 41.1
+    },
+    {
+        "year": 1972,
+        "month": 2,
+        "value": 41.3
+    },
+    {
+        "year": 1972,
+        "month": 3,
+        "value": 41.4
+    },
+    {
+        "year": 1972,
+        "month": 4,
+        "value": 41.5
+    },
+    {
+        "year": 1972,
+        "month": 5,
+        "value": 41.6
+    },
+    {
+        "year": 1972,
+        "month": 6,
+        "value": 41.7
+    },
+    {
+        "year": 1972,
+        "month": 7,
+        "value": 41.9
+    },
+    {
+        "year": 1972,
+        "month": 8,
+        "value": 42.0
+    },
+    {
+        "year": 1972,
+        "month": 9,
+        "value": 42.1
+    },
+    {
+        "year": 1972,
+        "month": 10,
+        "value": 42.3
+    },
+    {
+        "year": 1972,
+        "month": 11,
+        "value": 42.4
+    },
+    {
+        "year": 1972,
+        "month": 12,
+        "value": 42.5
+    },
+    {
+        "year": 1973,
+        "month": 1,
+        "value": 42.6
+    },
+    {
+        "year": 1973,
+        "month": 2,
+        "value": 42.9
+    },
+    {
+        "year": 1973,
+        "month": 3,
+        "value": 43.3
+    },
+    {
+        "year": 1973,
+        "month": 4,
+        "value": 43.6
+    },
+    {
+        "year": 1973,
+        "month": 5,
+        "value": 43.9
+    },
+    {
+        "year": 1973,
+        "month": 6,
+        "value": 44.2
+    },
+    {
+        "year": 1973,
+        "month": 7,
+        "value": 44.3
+    },
+    {
+        "year": 1973,
+        "month": 8,
+        "value": 45.1
+    },
+    {
+        "year": 1973,
+        "month": 9,
+        "value": 45.2
+    },
+    {
+        "year": 1973,
+        "month": 10,
+        "value": 45.6
+    },
+    {
+        "year": 1973,
+        "month": 11,
+        "value": 45.9
+    },
+    {
+        "year": 1973,
+        "month": 12,
+        "value": 46.2
+    },
+    {
+        "year": 1974,
+        "month": 1,
+        "value": 46.6
+    },
+    {
+        "year": 1974,
+        "month": 2,
+        "value": 47.2
+    },
+    {
+        "year": 1974,
+        "month": 3,
+        "value": 47.8
+    },
+    {
+        "year": 1974,
+        "month": 4,
+        "value": 48.0
+    },
+    {
+        "year": 1974,
+        "month": 5,
+        "value": 48.6
+    },
+    {
+        "year": 1974,
+        "month": 6,
+        "value": 49.0
+    },
+    {
+        "year": 1974,
+        "month": 7,
+        "value": 49.4
+    },
+    {
+        "year": 1974,
+        "month": 8,
+        "value": 50.0
+    },
+    {
+        "year": 1974,
+        "month": 9,
+        "value": 50.6
+    },
+    {
+        "year": 1974,
+        "month": 10,
+        "value": 51.1
+    },
+    {
+        "year": 1974,
+        "month": 11,
+        "value": 51.5
+    },
+    {
+        "year": 1974,
+        "month": 12,
+        "value": 51.9
+    },
+    {
+        "year": 1975,
+        "month": 1,
+        "value": 52.1
+    },
+    {
+        "year": 1975,
+        "month": 2,
+        "value": 52.5
+    },
+    {
+        "year": 1975,
+        "month": 3,
+        "value": 52.7
+    },
+    {
+        "year": 1975,
+        "month": 4,
+        "value": 52.9
+    },
+    {
+        "year": 1975,
+        "month": 5,
+        "value": 53.2
+    },
+    {
+        "year": 1975,
+        "month": 6,
+        "value": 53.6
+    },
+    {
+        "year": 1975,
+        "month": 7,
+        "value": 54.2
+    },
+    {
+        "year": 1975,
+        "month": 8,
+        "value": 54.3
+    },
+    {
+        "year": 1975,
+        "month": 9,
+        "value": 54.6
+    },
+    {
+        "year": 1975,
+        "month": 10,
+        "value": 54.9
+    },
+    {
+        "year": 1975,
+        "month": 11,
+        "value": 55.3
+    },
+    {
+        "year": 1975,
+        "month": 12,
+        "value": 55.5
+    },
+    {
+        "year": 1976,
+        "month": 1,
+        "value": 55.6
+    },
+    {
+        "year": 1976,
+        "month": 2,
+        "value": 55.8
+    },
+    {
+        "year": 1976,
+        "month": 3,
+        "value": 55.9
+    },
+    {
+        "year": 1976,
+        "month": 4,
+        "value": 56.1
+    },
+    {
+        "year": 1976,
+        "month": 5,
+        "value": 56.5
+    },
+    {
+        "year": 1976,
+        "month": 6,
+        "value": 56.8
+    },
+    {
+        "year": 1976,
+        "month": 7,
+        "value": 57.1
+    },
+    {
+        "year": 1976,
+        "month": 8,
+        "value": 57.4
+    },
+    {
+        "year": 1976,
+        "month": 9,
+        "value": 57.6
+    },
+    {
+        "year": 1976,
+        "month": 10,
+        "value": 57.9
+    },
+    {
+        "year": 1976,
+        "month": 11,
+        "value": 58.0
+    },
+    {
+        "year": 1976,
+        "month": 12,
+        "value": 58.2
+    },
+    {
+        "year": 1977,
+        "month": 1,
+        "value": 58.5
+    },
+    {
+        "year": 1977,
+        "month": 2,
+        "value": 59.1
+    },
+    {
+        "year": 1977,
+        "month": 3,
+        "value": 59.5
+    },
+    {
+        "year": 1977,
+        "month": 4,
+        "value": 60.0
+    },
+    {
+        "year": 1977,
+        "month": 5,
+        "value": 60.3
+    },
+    {
+        "year": 1977,
+        "month": 6,
+        "value": 60.7
+    },
+    {
+        "year": 1977,
+        "month": 7,
+        "value": 61.0
+    },
+    {
+        "year": 1977,
+        "month": 8,
+        "value": 61.2
+    },
+    {
+        "year": 1977,
+        "month": 9,
+        "value": 61.4
+    },
+    {
+        "year": 1977,
+        "month": 10,
+        "value": 61.6
+    },
+    {
+        "year": 1977,
+        "month": 11,
+        "value": 61.9
+    },
+    {
+        "year": 1977,
+        "month": 12,
+        "value": 62.1
+    },
+    {
+        "year": 1978,
+        "month": 1,
+        "value": 62.5
+    },
+    {
+        "year": 1978,
+        "month": 2,
+        "value": 62.9
+    },
+    {
+        "year": 1978,
+        "month": 3,
+        "value": 63.4
+    },
+    {
+        "year": 1978,
+        "month": 4,
+        "value": 63.9
+    },
+    {
+        "year": 1978,
+        "month": 5,
+        "value": 64.5
+    },
+    {
+        "year": 1978,
+        "month": 6,
+        "value": 65.2
+    },
+    {
+        "year": 1978,
+        "month": 7,
+        "value": 65.7
+    },
+    {
+        "year": 1978,
+        "month": 8,
+        "value": 66.0
+    },
+    {
+        "year": 1978,
+        "month": 9,
+        "value": 66.5
+    },
+    {
+        "year": 1978,
+        "month": 10,
+        "value": 67.1
+    },
+    {
+        "year": 1978,
+        "month": 11,
+        "value": 67.4
+    },
+    {
+        "year": 1978,
+        "month": 12,
+        "value": 67.7
+    },
+    {
+        "year": 1979,
+        "month": 1,
+        "value": 68.3
+    },
+    {
+        "year": 1979,
+        "month": 2,
+        "value": 69.1
+    },
+    {
+        "year": 1979,
+        "month": 3,
+        "value": 69.8
+    },
+    {
+        "year": 1979,
+        "month": 4,
+        "value": 70.6
+    },
+    {
+        "year": 1979,
+        "month": 5,
+        "value": 71.5
+    },
+    {
+        "year": 1979,
+        "month": 6,
+        "value": 72.3
+    },
+    {
+        "year": 1979,
+        "month": 7,
+        "value": 73.1
+    },
+    {
+        "year": 1979,
+        "month": 8,
+        "value": 73.8
+    },
+    {
+        "year": 1979,
+        "month": 9,
+        "value": 74.6
+    },
+    {
+        "year": 1979,
+        "month": 10,
+        "value": 75.2
+    },
+    {
+        "year": 1979,
+        "month": 11,
+        "value": 75.9
+    },
+    {
+        "year": 1979,
+        "month": 12,
+        "value": 76.7
+    },
+    {
+        "year": 1980,
+        "month": 1,
+        "value": 77.8
+    },
+    {
+        "year": 1980,
+        "month": 2,
+        "value": 78.9
+    },
+    {
+        "year": 1980,
+        "month": 3,
+        "value": 80.1
+    },
+    {
+        "year": 1980,
+        "month": 4,
+        "value": 81.0
+    },
+    {
+        "year": 1980,
+        "month": 5,
+        "value": 81.8
+    },
+    {
+        "year": 1980,
+        "month": 6,
+        "value": 82.7
+    },
+    {
+        "year": 1980,
+        "month": 7,
+        "value": 82.7
+    },
+    {
+        "year": 1980,
+        "month": 8,
+        "value": 83.3
+    },
+    {
+        "year": 1980,
+        "month": 9,
+        "value": 84.0
+    },
+    {
+        "year": 1980,
+        "month": 10,
+        "value": 84.8
+    },
+    {
+        "year": 1980,
+        "month": 11,
+        "value": 85.5
+    },
+    {
+        "year": 1980,
+        "month": 12,
+        "value": 86.3
+    },
+    {
+        "year": 1981,
+        "month": 1,
+        "value": 87.0
+    },
+    {
+        "year": 1981,
+        "month": 2,
+        "value": 87.9
+    },
+    {
+        "year": 1981,
+        "month": 3,
+        "value": 88.5
+    },
+    {
+        "year": 1981,
+        "month": 4,
+        "value": 89.1
+    },
+    {
+        "year": 1981,
+        "month": 5,
+        "value": 89.8
+    },
+    {
+        "year": 1981,
+        "month": 6,
+        "value": 90.6
+    },
+    {
+        "year": 1981,
+        "month": 7,
+        "value": 91.6
+    },
+    {
+        "year": 1981,
+        "month": 8,
+        "value": 92.3
+    },
+    {
+        "year": 1981,
+        "month": 9,
+        "value": 93.2
+    },
+    {
+        "year": 1981,
+        "month": 10,
+        "value": 93.4
+    },
+    {
+        "year": 1981,
+        "month": 11,
+        "value": 93.7
+    },
+    {
+        "year": 1981,
+        "month": 12,
+        "value": 94.0
+    },
+    {
+        "year": 1982,
+        "month": 1,
+        "value": 94.3
+    },
+    {
+        "year": 1982,
+        "month": 2,
+        "value": 94.6
+    },
+    {
+        "year": 1982,
+        "month": 3,
+        "value": 94.5
+    },
+    {
+        "year": 1982,
+        "month": 4,
+        "value": 94.9
+    },
+    {
+        "year": 1982,
+        "month": 5,
+        "value": 95.8
+    },
+    {
+        "year": 1982,
+        "month": 6,
+        "value": 97.0
+    },
+    {
+        "year": 1982,
+        "month": 7,
+        "value": 97.5
+    },
+    {
+        "year": 1982,
+        "month": 8,
+        "value": 97.7
+    },
+    {
+        "year": 1982,
+        "month": 9,
+        "value": 97.9
+    },
+    {
+        "year": 1982,
+        "month": 10,
+        "value": 98.2
+    },
+    {
+        "year": 1982,
+        "month": 11,
+        "value": 98.0
+    },
+    {
+        "year": 1982,
+        "month": 12,
+        "value": 97.6
+    },
+    {
+        "year": 1983,
+        "month": 1,
+        "value": 97.8
+    },
+    {
+        "year": 1983,
+        "month": 2,
+        "value": 97.9
+    },
+    {
+        "year": 1983,
+        "month": 3,
+        "value": 97.9
+    },
+    {
+        "year": 1983,
+        "month": 4,
+        "value": 98.6
+    },
+    {
+        "year": 1983,
+        "month": 5,
+        "value": 99.2
+    },
+    {
+        "year": 1983,
+        "month": 6,
+        "value": 99.5
+    },
+    {
+        "year": 1983,
+        "month": 7,
+        "value": 99.9
+    },
+    {
+        "year": 1983,
+        "month": 8,
+        "value": 100.2
+    },
+    {
+        "year": 1983,
+        "month": 9,
+        "value": 100.7
+    },
+    {
+        "year": 1983,
+        "month": 10,
+        "value": 101.0
+    },
+    {
+        "year": 1983,
+        "month": 11,
+        "value": 101.2
+    },
+    {
+        "year": 1983,
+        "month": 12,
+        "value": 101.3
+    },
+    {
+        "year": 1984,
+        "month": 1,
+        "value": 101.9
+    },
+    {
+        "year": 1984,
+        "month": 2,
+        "value": 102.4
+    },
+    {
+        "year": 1984,
+        "month": 3,
+        "value": 102.6
+    },
+    {
+        "year": 1984,
+        "month": 4,
+        "value": 103.1
+    },
+    {
+        "year": 1984,
+        "month": 5,
+        "value": 103.4
+    },
+    {
+        "year": 1984,
+        "month": 6,
+        "value": 103.7
+    },
+    {
+        "year": 1984,
+        "month": 7,
+        "value": 104.1
+    },
+    {
+        "year": 1984,
+        "month": 8,
+        "value": 104.5
+    },
+    {
+        "year": 1984,
+        "month": 9,
+        "value": 105.0
+    },
+    {
+        "year": 1984,
+        "month": 10,
+        "value": 105.3
+    },
+    {
+        "year": 1984,
+        "month": 11,
+        "value": 105.3
+    },
+    {
+        "year": 1984,
+        "month": 12,
+        "value": 105.3
+    },
+    {
+        "year": 1985,
+        "month": 1,
+        "value": 105.5
+    },
+    {
+        "year": 1985,
+        "month": 2,
+        "value": 106.0
+    },
+    {
+        "year": 1985,
+        "month": 3,
+        "value": 106.4
+    },
+    {
+        "year": 1985,
+        "month": 4,
+        "value": 106.9
+    },
+    {
+        "year": 1985,
+        "month": 5,
+        "value": 107.3
+    },
+    {
+        "year": 1985,
+        "month": 6,
+        "value": 107.6
+    },
+    {
+        "year": 1985,
+        "month": 7,
+        "value": 107.8
+    },
+    {
+        "year": 1985,
+        "month": 8,
+        "value": 108.0
+    },
+    {
+        "year": 1985,
+        "month": 9,
+        "value": 108.3
+    },
+    {
+        "year": 1985,
+        "month": 10,
+        "value": 108.7
+    },
+    {
+        "year": 1985,
+        "month": 11,
+        "value": 109.0
+    },
+    {
+        "year": 1985,
+        "month": 12,
+        "value": 109.3
+    },
+    {
+        "year": 1986,
+        "month": 1,
+        "value": 109.6
+    },
+    {
+        "year": 1986,
+        "month": 2,
+        "value": 109.3
+    },
+    {
+        "year": 1986,
+        "month": 3,
+        "value": 108.8
+    },
+    {
+        "year": 1986,
+        "month": 4,
+        "value": 108.6
+    },
+    {
+        "year": 1986,
+        "month": 5,
+        "value": 108.9
+    },
+    {
+        "year": 1986,
+        "month": 6,
+        "value": 109.5
+    },
+    {
+        "year": 1986,
+        "month": 7,
+        "value": 109.5
+    },
+    {
+        "year": 1986,
+        "month": 8,
+        "value": 109.7
+    },
+    {
+        "year": 1986,
+        "month": 9,
+        "value": 110.2
+    },
+    {
+        "year": 1986,
+        "month": 10,
+        "value": 110.3
+    },
+    {
+        "year": 1986,
+        "month": 11,
+        "value": 110.4
+    },
+    {
+        "year": 1986,
+        "month": 12,
+        "value": 110.5
+    },
+    {
+        "year": 1987,
+        "month": 1,
+        "value": 111.2
+    },
+    {
+        "year": 1987,
+        "month": 2,
+        "value": 111.6
+    },
+    {
+        "year": 1987,
+        "month": 3,
+        "value": 112.1
+    },
+    {
+        "year": 1987,
+        "month": 4,
+        "value": 112.7
+    },
+    {
+        "year": 1987,
+        "month": 5,
+        "value": 113.1
+    },
+    {
+        "year": 1987,
+        "month": 6,
+        "value": 113.5
+    },
+    {
+        "year": 1987,
+        "month": 7,
+        "value": 113.8
+    },
+    {
+        "year": 1987,
+        "month": 8,
+        "value": 114.4
+    },
+    {
+        "year": 1987,
+        "month": 9,
+        "value": 115.0
+    },
+    {
+        "year": 1987,
+        "month": 10,
+        "value": 115.3
+    },
+    {
+        "year": 1987,
+        "month": 11,
+        "value": 115.4
+    },
+    {
+        "year": 1987,
+        "month": 12,
+        "value": 115.4
+    },
+    {
+        "year": 1988,
+        "month": 1,
+        "value": 115.7
+    },
+    {
+        "year": 1988,
+        "month": 2,
+        "value": 116.0
+    },
+    {
+        "year": 1988,
+        "month": 3,
+        "value": 116.5
+    },
+    {
+        "year": 1988,
+        "month": 4,
+        "value": 117.1
+    },
+    {
+        "year": 1988,
+        "month": 5,
+        "value": 117.5
+    },
+    {
+        "year": 1988,
+        "month": 6,
+        "value": 118.0
+    },
+    {
+        "year": 1988,
+        "month": 7,
+        "value": 118.5
+    },
+    {
+        "year": 1988,
+        "month": 8,
+        "value": 119.0
+    },
+    {
+        "year": 1988,
+        "month": 9,
+        "value": 119.8
+    },
+    {
+        "year": 1988,
+        "month": 10,
+        "value": 120.2
+    },
+    {
+        "year": 1988,
+        "month": 11,
+        "value": 120.3
+    },
+    {
+        "year": 1988,
+        "month": 12,
+        "value": 120.5
+    },
+    {
+        "year": 1989,
+        "month": 1,
+        "value": 121.1
+    },
+    {
+        "year": 1989,
+        "month": 2,
+        "value": 121.6
+    },
+    {
+        "year": 1989,
+        "month": 3,
+        "value": 122.3
+    },
+    {
+        "year": 1989,
+        "month": 4,
+        "value": 123.1
+    },
+    {
+        "year": 1989,
+        "month": 5,
+        "value": 123.8
+    },
+    {
+        "year": 1989,
+        "month": 6,
+        "value": 124.1
+    },
+    {
+        "year": 1989,
+        "month": 7,
+        "value": 124.4
+    },
+    {
+        "year": 1989,
+        "month": 8,
+        "value": 124.6
+    },
+    {
+        "year": 1989,
+        "month": 9,
+        "value": 125.0
+    },
+    {
+        "year": 1989,
+        "month": 10,
+        "value": 125.6
+    },
+    {
+        "year": 1989,
+        "month": 11,
+        "value": 125.9
+    },
+    {
+        "year": 1989,
+        "month": 12,
+        "value": 126.1
+    },
+    {
+        "year": 1990,
+        "month": 1,
+        "value": 127.4
+    },
+    {
+        "year": 1990,
+        "month": 2,
+        "value": 128.0
+    },
+    {
+        "year": 1990,
+        "month": 3,
+        "value": 128.7
+    },
+    {
+        "year": 1990,
+        "month": 4,
+        "value": 128.9
+    },
+    {
+        "year": 1990,
+        "month": 5,
+        "value": 129.2
+    },
+    {
+        "year": 1990,
+        "month": 6,
+        "value": 129.9
+    },
+    {
+        "year": 1990,
+        "month": 7,
+        "value": 130.4
+    },
+    {
+        "year": 1990,
+        "month": 8,
+        "value": 131.6
+    },
+    {
+        "year": 1990,
+        "month": 9,
+        "value": 132.7
+    },
+    {
+        "year": 1990,
+        "month": 10,
+        "value": 133.5
+    },
+    {
+        "year": 1990,
+        "month": 11,
+        "value": 133.8
+    },
+    {
+        "year": 1990,
+        "month": 12,
+        "value": 133.8
+    },
+    {
+        "year": 1991,
+        "month": 1,
+        "value": 134.6
+    },
+    {
+        "year": 1991,
+        "month": 2,
+        "value": 134.8
+    },
+    {
+        "year": 1991,
+        "month": 3,
+        "value": 135.0
+    },
+    {
+        "year": 1991,
+        "month": 4,
+        "value": 135.2
+    },
+    {
+        "year": 1991,
+        "month": 5,
+        "value": 135.6
+    },
+    {
+        "year": 1991,
+        "month": 6,
+        "value": 136.0
+    },
+    {
+        "year": 1991,
+        "month": 7,
+        "value": 136.2
+    },
+    {
+        "year": 1991,
+        "month": 8,
+        "value": 136.6
+    },
+    {
+        "year": 1991,
+        "month": 9,
+        "value": 137.2
+    },
+    {
+        "year": 1991,
+        "month": 10,
+        "value": 137.4
+    },
+    {
+        "year": 1991,
+        "month": 11,
+        "value": 137.8
+    },
+    {
+        "year": 1991,
+        "month": 12,
+        "value": 137.9
+    },
+    {
+        "year": 1992,
+        "month": 1,
+        "value": 138.1
+    },
+    {
+        "year": 1992,
+        "month": 2,
+        "value": 138.6
+    },
+    {
+        "year": 1992,
+        "month": 3,
+        "value": 139.3
+    },
+    {
+        "year": 1992,
+        "month": 4,
+        "value": 139.5
+    },
+    {
+        "year": 1992,
+        "month": 5,
+        "value": 139.7
+    },
+    {
+        "year": 1992,
+        "month": 6,
+        "value": 140.2
+    },
+    {
+        "year": 1992,
+        "month": 7,
+        "value": 140.5
+    },
+    {
+        "year": 1992,
+        "month": 8,
+        "value": 140.9
+    },
+    {
+        "year": 1992,
+        "month": 9,
+        "value": 141.3
+    },
+    {
+        "year": 1992,
+        "month": 10,
+        "value": 141.8
+    },
+    {
+        "year": 1992,
+        "month": 11,
+        "value": 142.0
+    },
+    {
+        "year": 1992,
+        "month": 12,
+        "value": 141.9
+    },
+    {
+        "year": 1993,
+        "month": 1,
+        "value": 142.6
+    },
+    {
+        "year": 1993,
+        "month": 2,
+        "value": 143.1
+    },
+    {
+        "year": 1993,
+        "month": 3,
+        "value": 143.6
+    },
+    {
+        "year": 1993,
+        "month": 4,
+        "value": 144.0
+    },
+    {
+        "year": 1993,
+        "month": 5,
+        "value": 144.2
+    },
+    {
+        "year": 1993,
+        "month": 6,
+        "value": 144.4
+    },
+    {
+        "year": 1993,
+        "month": 7,
+        "value": 144.4
+    },
+    {
+        "year": 1993,
+        "month": 8,
+        "value": 144.8
+    },
+    {
+        "year": 1993,
+        "month": 9,
+        "value": 145.1
+    },
+    {
+        "year": 1993,
+        "month": 10,
+        "value": 145.7
+    },
+    {
+        "year": 1993,
+        "month": 11,
+        "value": 145.8
+    },
+    {
+        "year": 1993,
+        "month": 12,
+        "value": 145.8
+    },
+    {
+        "year": 1994,
+        "month": 1,
+        "value": 146.2
+    },
+    {
+        "year": 1994,
+        "month": 2,
+        "value": 146.7
+    },
+    {
+        "year": 1994,
+        "month": 3,
+        "value": 147.2
+    },
+    {
+        "year": 1994,
+        "month": 4,
+        "value": 147.4
+    },
+    {
+        "year": 1994,
+        "month": 5,
+        "value": 147.5
+    },
+    {
+        "year": 1994,
+        "month": 6,
+        "value": 148.0
+    },
+    {
+        "year": 1994,
+        "month": 7,
+        "value": 148.4
+    },
+    {
+        "year": 1994,
+        "month": 8,
+        "value": 149.0
+    },
+    {
+        "year": 1994,
+        "month": 9,
+        "value": 149.4
+    },
+    {
+        "year": 1994,
+        "month": 10,
+        "value": 149.5
+    },
+    {
+        "year": 1994,
+        "month": 11,
+        "value": 149.7
+    },
+    {
+        "year": 1994,
+        "month": 12,
+        "value": 149.7
+    },
+    {
+        "year": 1995,
+        "month": 1,
+        "value": 150.3
+    },
+    {
+        "year": 1995,
+        "month": 2,
+        "value": 150.9
+    },
+    {
+        "year": 1995,
+        "month": 3,
+        "value": 151.4
+    },
+    {
+        "year": 1995,
+        "month": 4,
+        "value": 151.9
+    },
+    {
+        "year": 1995,
+        "month": 5,
+        "value": 152.2
+    },
+    {
+        "year": 1995,
+        "month": 6,
+        "value": 152.5
+    },
+    {
+        "year": 1995,
+        "month": 7,
+        "value": 152.5
+    },
+    {
+        "year": 1995,
+        "month": 8,
+        "value": 152.9
+    },
+    {
+        "year": 1995,
+        "month": 9,
+        "value": 153.2
+    },
+    {
+        "year": 1995,
+        "month": 10,
+        "value": 153.7
+    },
+    {
+        "year": 1995,
+        "month": 11,
+        "value": 153.6
+    },
+    {
+        "year": 1995,
+        "month": 12,
+        "value": 153.5
+    },
+    {
+        "year": 1996,
+        "month": 1,
+        "value": 154.4
+    },
+    {
+        "year": 1996,
+        "month": 2,
+        "value": 154.9
+    },
+    {
+        "year": 1996,
+        "month": 3,
+        "value": 155.7
+    },
+    {
+        "year": 1996,
+        "month": 4,
+        "value": 156.3
+    },
+    {
+        "year": 1996,
+        "month": 5,
+        "value": 156.6
+    },
+    {
+        "year": 1996,
+        "month": 6,
+        "value": 156.7
+    },
+    {
+        "year": 1996,
+        "month": 7,
+        "value": 157.0
+    },
+    {
+        "year": 1996,
+        "month": 8,
+        "value": 157.3
+    },
+    {
+        "year": 1996,
+        "month": 9,
+        "value": 157.8
+    },
+    {
+        "year": 1996,
+        "month": 10,
+        "value": 158.3
+    },
+    {
+        "year": 1996,
+        "month": 11,
+        "value": 158.6
+    },
+    {
+        "year": 1996,
+        "month": 12,
+        "value": 158.6
+    },
+    {
+        "year": 1997,
+        "month": 1,
+        "value": 159.1
+    },
+    {
+        "year": 1997,
+        "month": 2,
+        "value": 159.6
+    },
+    {
+        "year": 1997,
+        "month": 3,
+        "value": 160.0
+    },
+    {
+        "year": 1997,
+        "month": 4,
+        "value": 160.2
+    },
+    {
+        "year": 1997,
+        "month": 5,
+        "value": 160.1
+    },
+    {
+        "year": 1997,
+        "month": 6,
+        "value": 160.3
+    },
+    {
+        "year": 1997,
+        "month": 7,
+        "value": 160.5
+    },
+    {
+        "year": 1997,
+        "month": 8,
+        "value": 160.8
+    },
+    {
+        "year": 1997,
+        "month": 9,
+        "value": 161.2
+    },
+    {
+        "year": 1997,
+        "month": 10,
+        "value": 161.6
+    },
+    {
+        "year": 1997,
+        "month": 11,
+        "value": 161.5
+    },
+    {
+        "year": 1997,
+        "month": 12,
+        "value": 161.3
+    },
+    {
+        "year": 1998,
+        "month": 1,
+        "value": 161.6
+    },
+    {
+        "year": 1998,
+        "month": 2,
+        "value": 161.9
+    },
+    {
+        "year": 1998,
+        "month": 3,
+        "value": 162.2
+    },
+    {
+        "year": 1998,
+        "month": 4,
+        "value": 162.5
+    },
+    {
+        "year": 1998,
+        "month": 5,
+        "value": 162.8
+    },
+    {
+        "year": 1998,
+        "month": 6,
+        "value": 163.0
+    },
+    {
+        "year": 1998,
+        "month": 7,
+        "value": 163.2
+    },
+    {
+        "year": 1998,
+        "month": 8,
+        "value": 163.4
+    },
+    {
+        "year": 1998,
+        "month": 9,
+        "value": 163.6
+    },
+    {
+        "year": 1998,
+        "month": 10,
+        "value": 164.0
+    },
+    {
+        "year": 1998,
+        "month": 11,
+        "value": 164.0
+    },
+    {
+        "year": 1998,
+        "month": 12,
+        "value": 163.9
+    },
+    {
+        "year": 1999,
+        "month": 1,
+        "value": 164.3
+    },
+    {
+        "year": 1999,
+        "month": 2,
+        "value": 164.5
+    },
+    {
+        "year": 1999,
+        "month": 3,
+        "value": 165.0
+    },
+    {
+        "year": 1999,
+        "month": 4,
+        "value": 166.2
+    },
+    {
+        "year": 1999,
+        "month": 5,
+        "value": 166.2
+    },
+    {
+        "year": 1999,
+        "month": 6,
+        "value": 166.2
+    },
+    {
+        "year": 1999,
+        "month": 7,
+        "value": 166.7
+    },
+    {
+        "year": 1999,
+        "month": 8,
+        "value": 167.1
+    },
+    {
+        "year": 1999,
+        "month": 9,
+        "value": 167.9
+    },
+    {
+        "year": 1999,
+        "month": 10,
+        "value": 168.2
+    },
+    {
+        "year": 1999,
+        "month": 11,
+        "value": 168.3
+    },
+    {
+        "year": 1999,
+        "month": 12,
+        "value": 168.3
+    },
+    {
+        "year": 2000,
+        "month": 1,
+        "value": 168.8
+    },
+    {
+        "year": 2000,
+        "month": 2,
+        "value": 169.8
+    },
+    {
+        "year": 2000,
+        "month": 3,
+        "value": 171.2
+    },
+    {
+        "year": 2000,
+        "month": 4,
+        "value": 171.3
+    },
+    {
+        "year": 2000,
+        "month": 5,
+        "value": 171.5
+    },
+    {
+        "year": 2000,
+        "month": 6,
+        "value": 172.4
+    },
+    {
+        "year": 2000,
+        "month": 7,
+        "value": 172.8
+    },
+    {
+        "year": 2000,
+        "month": 8,
+        "value": 172.8
+    },
+    {
+        "year": 2000,
+        "month": 9,
+        "value": 173.7
+    },
+    {
+        "year": 2000,
+        "month": 10,
+        "value": 174.0
+    },
+    {
+        "year": 2000,
+        "month": 11,
+        "value": 174.1
+    },
+    {
+        "year": 2000,
+        "month": 12,
+        "value": 174.0
+    },
+    {
+        "year": 2001,
+        "month": 1,
+        "value": 175.1
+    },
+    {
+        "year": 2001,
+        "month": 2,
+        "value": 175.8
+    },
+    {
+        "year": 2001,
+        "month": 3,
+        "value": 176.2
+    },
+    {
+        "year": 2001,
+        "month": 4,
+        "value": 176.9
+    },
+    {
+        "year": 2001,
+        "month": 5,
+        "value": 177.7
+    },
+    {
+        "year": 2001,
+        "month": 6,
+        "value": 178.0
+    },
+    {
+        "year": 2001,
+        "month": 7,
+        "value": 177.5
+    },
+    {
+        "year": 2001,
+        "month": 8,
+        "value": 177.5
+    },
+    {
+        "year": 2001,
+        "month": 9,
+        "value": 178.3
+    },
+    {
+        "year": 2001,
+        "month": 10,
+        "value": 177.7
+    },
+    {
+        "year": 2001,
+        "month": 11,
+        "value": 177.4
+    },
+    {
+        "year": 2001,
+        "month": 12,
+        "value": 176.7
+    },
+    {
+        "year": 2002,
+        "month": 1,
+        "value": 177.1
+    },
+    {
+        "year": 2002,
+        "month": 2,
+        "value": 177.8
+    },
+    {
+        "year": 2002,
+        "month": 3,
+        "value": 178.8
+    },
+    {
+        "year": 2002,
+        "month": 4,
+        "value": 179.8
+    },
+    {
+        "year": 2002,
+        "month": 5,
+        "value": 179.8
+    },
+    {
+        "year": 2002,
+        "month": 6,
+        "value": 179.9
+    },
+    {
+        "year": 2002,
+        "month": 7,
+        "value": 180.1
+    },
+    {
+        "year": 2002,
+        "month": 8,
+        "value": 180.7
+    },
+    {
+        "year": 2002,
+        "month": 9,
+        "value": 181.0
+    },
+    {
+        "year": 2002,
+        "month": 10,
+        "value": 181.3
+    },
+    {
+        "year": 2002,
+        "month": 11,
+        "value": 181.3
+    },
+    {
+        "year": 2002,
+        "month": 12,
+        "value": 180.9
+    },
+    {
+        "year": 2003,
+        "month": 1,
+        "value": 181.7
+    },
+    {
+        "year": 2003,
+        "month": 2,
+        "value": 183.1
+    },
+    {
+        "year": 2003,
+        "month": 3,
+        "value": 184.2
+    },
+    {
+        "year": 2003,
+        "month": 4,
+        "value": 183.8
+    },
+    {
+        "year": 2003,
+        "month": 5,
+        "value": 183.5
+    },
+    {
+        "year": 2003,
+        "month": 6,
+        "value": 183.7
+    },
+    {
+        "year": 2003,
+        "month": 7,
+        "value": 183.9
+    },
+    {
+        "year": 2003,
+        "month": 8,
+        "value": 184.6
+    },
+    {
+        "year": 2003,
+        "month": 9,
+        "value": 185.2
+    },
+    {
+        "year": 2003,
+        "month": 10,
+        "value": 185.0
+    },
+    {
+        "year": 2003,
+        "month": 11,
+        "value": 184.5
+    },
+    {
+        "year": 2003,
+        "month": 12,
+        "value": 184.3
+    },
+    {
+        "year": 2004,
+        "month": 1,
+        "value": 185.2
+    },
+    {
+        "year": 2004,
+        "month": 2,
+        "value": 186.2
+    },
+    {
+        "year": 2004,
+        "month": 3,
+        "value": 187.4
+    },
+    {
+        "year": 2004,
+        "month": 4,
+        "value": 188.0
+    },
+    {
+        "year": 2004,
+        "month": 5,
+        "value": 189.1
+    },
+    {
+        "year": 2004,
+        "month": 6,
+        "value": 189.7
+    },
+    {
+        "year": 2004,
+        "month": 7,
+        "value": 189.4
+    },
+    {
+        "year": 2004,
+        "month": 8,
+        "value": 189.5
+    },
+    {
+        "year": 2004,
+        "month": 9,
+        "value": 189.9
+    },
+    {
+        "year": 2004,
+        "month": 10,
+        "value": 190.9
+    },
+    {
+        "year": 2004,
+        "month": 11,
+        "value": 191.0
+    },
+    {
+        "year": 2004,
+        "month": 12,
+        "value": 190.3
+    },
+    {
+        "year": 2005,
+        "month": 1,
+        "value": 190.7
+    },
+    {
+        "year": 2005,
+        "month": 2,
+        "value": 191.8
+    },
+    {
+        "year": 2005,
+        "month": 3,
+        "value": 193.3
+    },
+    {
+        "year": 2005,
+        "month": 4,
+        "value": 194.6
+    },
+    {
+        "year": 2005,
+        "month": 5,
+        "value": 194.4
+    },
+    {
+        "year": 2005,
+        "month": 6,
+        "value": 194.5
+    },
+    {
+        "year": 2005,
+        "month": 7,
+        "value": 195.4
+    },
+    {
+        "year": 2005,
+        "month": 8,
+        "value": 196.4
+    },
+    {
+        "year": 2005,
+        "month": 9,
+        "value": 198.8
+    },
+    {
+        "year": 2005,
+        "month": 10,
+        "value": 199.2
+    },
+    {
+        "year": 2005,
+        "month": 11,
+        "value": 197.6
+    },
+    {
+        "year": 2005,
+        "month": 12,
+        "value": 196.8
+    },
+    {
+        "year": 2006,
+        "month": 1,
+        "value": 198.3
+    },
+    {
+        "year": 2006,
+        "month": 2,
+        "value": 198.7
+    },
+    {
+        "year": 2006,
+        "month": 3,
+        "value": 199.8
+    },
+    {
+        "year": 2006,
+        "month": 4,
+        "value": 201.5
+    },
+    {
+        "year": 2006,
+        "month": 5,
+        "value": 202.5
+    },
+    {
+        "year": 2006,
+        "month": 6,
+        "value": 202.9
+    },
+    {
+        "year": 2006,
+        "month": 7,
+        "value": 203.5
+    },
+    {
+        "year": 2006,
+        "month": 8,
+        "value": 203.9
+    },
+    {
+        "year": 2006,
+        "month": 9,
+        "value": 202.9
+    },
+    {
+        "year": 2006,
+        "month": 10,
+        "value": 201.8
+    },
+    {
+        "year": 2006,
+        "month": 11,
+        "value": 201.5
+    },
+    {
+        "year": 2006,
+        "month": 12,
+        "value": 201.8
+    },
+    {
+        "year": 2007,
+        "month": 1,
+        "value": 202.416
+    },
+    {
+        "year": 2007,
+        "month": 2,
+        "value": 203.499
+    },
+    {
+        "year": 2007,
+        "month": 3,
+        "value": 205.352
+    },
+    {
+        "year": 2007,
+        "month": 4,
+        "value": 206.686
+    },
+    {
+        "year": 2007,
+        "month": 5,
+        "value": 207.949
+    },
+    {
+        "year": 2007,
+        "month": 6,
+        "value": 208.352
+    },
+    {
+        "year": 2007,
+        "month": 7,
+        "value": 208.299
+    },
+    {
+        "year": 2007,
+        "month": 8,
+        "value": 207.917
+    },
+    {
+        "year": 2007,
+        "month": 9,
+        "value": 208.490
+    },
+    {
+        "year": 2007,
+        "month": 10,
+        "value": 208.936
+    },
+    {
+        "year": 2007,
+        "month": 11,
+        "value": 210.177
+    },
+    {
+        "year": 2007,
+        "month": 12,
+        "value": 210.036
+    },
+    {
+        "year": 2008,
+        "month": 1,
+        "value": 211.080
+    },
+    {
+        "year": 2008,
+        "month": 2,
+        "value": 211.693
+    },
+    {
+        "year": 2008,
+        "month": 3,
+        "value": 213.528
+    },
+    {
+        "year": 2008,
+        "month": 4,
+        "value": 214.823
+    },
+    {
+        "year": 2008,
+        "month": 5,
+        "value": 216.632
+    },
+    {
+        "year": 2008,
+        "month": 6,
+        "value": 218.815
+    },
+    {
+        "year": 2008,
+        "month": 7,
+        "value": 219.964
+    },
+    {
+        "year": 2008,
+        "month": 8,
+        "value": 219.086
+    },
+    {
+        "year": 2008,
+        "month": 9,
+        "value": 218.783
+    },
+    {
+        "year": 2008,
+        "month": 10,
+        "value": 216.573
+    },
+    {
+        "year": 2008,
+        "month": 11,
+        "value": 212.425
+    },
+    {
+        "year": 2008,
+        "month": 12,
+        "value": 210.228
+    },
+    {
+        "year": 2009,
+        "month": 1,
+        "value": 211.143
+    },
+    {
+        "year": 2009,
+        "month": 2,
+        "value": 212.193
+    },
+    {
+        "year": 2009,
+        "month": 3,
+        "value": 212.709
+    },
+    {
+        "year": 2009,
+        "month": 4,
+        "value": 213.240
+    },
+    {
+        "year": 2009,
+        "month": 5,
+        "value": 213.856
+    },
+    {
+        "year": 2009,
+        "month": 6,
+        "value": 215.693
+    },
+    {
+        "year": 2009,
+        "month": 7,
+        "value": 215.351
+    },
+    {
+        "year": 2009,
+        "month": 8,
+        "value": 215.834
+    },
+    {
+        "year": 2009,
+        "month": 9,
+        "value": 215.969
+    },
+    {
+        "year": 2009,
+        "month": 10,
+        "value": 216.177
+    },
+    {
+        "year": 2009,
+        "month": 11,
+        "value": 216.330
+    },
+    {
+        "year": 2009,
+        "month": 12,
+        "value": 215.949
+    },
+    {
+        "year": 2010,
+        "month": 1,
+        "value": 216.687
+    },
+    {
+        "year": 2010,
+        "month": 2,
+        "value": 216.741
+    },
+    {
+        "year": 2010,
+        "month": 3,
+        "value": 217.631
+    },
+    {
+        "year": 2010,
+        "month": 4,
+        "value": 218.009
+    },
+    {
+        "year": 2010,
+        "month": 5,
+        "value": 218.178
+    },
+    {
+        "year": 2010,
+        "month": 6,
+        "value": 217.965
+    },
+    {
+        "year": 2010,
+        "month": 7,
+        "value": 218.011
+    },
+    {
+        "year": 2010,
+        "month": 8,
+        "value": 218.312
+    },
+    {
+        "year": 2010,
+        "month": 9,
+        "value": 218.439
+    },
+    {
+        "year": 2010,
+        "month": 10,
+        "value": 218.711
+    },
+    {
+        "year": 2010,
+        "month": 11,
+        "value": 218.803
+    },
+    {
+        "year": 2010,
+        "month": 12,
+        "value": 219.179
+    },
+    {
+        "year": 2011,
+        "month": 1,
+        "value": 220.223
+    },
+    {
+        "year": 2011,
+        "month": 2,
+        "value": 221.309
+    },
+    {
+        "year": 2011,
+        "month": 3,
+        "value": 223.467
+    },
+    {
+        "year": 2011,
+        "month": 4,
+        "value": 224.906
+    },
+    {
+        "year": 2011,
+        "month": 5,
+        "value": 225.964
+    },
+    {
+        "year": 2011,
+        "month": 6,
+        "value": 225.722
+    },
+    {
+        "year": 2011,
+        "month": 7,
+        "value": 225.922
+    },
+    {
+        "year": 2011,
+        "month": 8,
+        "value": 226.545
+    },
+    {
+        "year": 2011,
+        "month": 9,
+        "value": 226.889
+    },
+    {
+        "year": 2011,
+        "month": 10,
+        "value": 226.421
+    },
+    {
+        "year": 2011,
+        "month": 11,
+        "value": 226.230
+    },
+    {
+        "year": 2011,
+        "month": 12,
+        "value": 225.672
+    },
+    {
+        "year": 2012,
+        "month": 1,
+        "value": 226.665
+    },
+    {
+        "year": 2012,
+        "month": 2,
+        "value": 227.663
+    },
+    {
+        "year": 2012,
+        "month": 3,
+        "value": 229.392
+    },
+    {
+        "year": 2012,
+        "month": 4,
+        "value": 230.085
+    },
+    {
+        "year": 2012,
+        "month": 5,
+        "value": 229.815
+    },
+    {
+        "year": 2012,
+        "month": 6,
+        "value": 229.478
+    },
+    {
+        "year": 2012,
+        "month": 7,
+        "value": 229.104
+    },
+    {
+        "year": 2012,
+        "month": 8,
+        "value": 230.379
+    },
+    {
+        "year": 2012,
+        "month": 9,
+        "value": 231.407
+    },
+    {
+        "year": 2012,
+        "month": 10,
+        "value": 231.317
+    },
+    {
+        "year": 2012,
+        "month": 11,
+        "value": 230.221
+    },
+    {
+        "year": 2012,
+        "month": 12,
+        "value": 229.601
+    },
+    {
+        "year": 2013,
+        "month": 1,
+        "value": 230.280
+    },
+    {
+        "year": 2013,
+        "month": 2,
+        "value": 232.166
+    },
+    {
+        "year": 2013,
+        "month": 3,
+        "value": 232.773
+    },
+    {
+        "year": 2013,
+        "month": 4,
+        "value": 232.531
+    },
+    {
+        "year": 2013,
+        "month": 5,
+        "value": 232.945
+    },
+    {
+        "year": 2013,
+        "month": 6,
+        "value": 233.504
+    },
+    {
+        "year": 2013,
+        "month": 7,
+        "value": 233.596
+    },
+    {
+        "year": 2013,
+        "month": 8,
+        "value": 233.877
+    },
+    {
+        "year": 2013,
+        "month": 9,
+        "value": 234.149
+    },
+    {
+        "year": 2013,
+        "month": 10,
+        "value": 233.546
+    },
+    {
+        "year": 2013,
+        "month": 11,
+        "value": 233.069
+    },
+    {
+        "year": 2013,
+        "month": 12,
+        "value": 233.049
+    },
+    {
+        "year": 2014,
+        "month": 1,
+        "value": 233.916
+    },
+    {
+        "year": 2014,
+        "month": 2,
+        "value": 234.781
+    },
+    {
+        "year": 2014,
+        "month": 3,
+        "value": 236.293
+    },
+    {
+        "year": 2014,
+        "month": 4,
+        "value": 237.072
+    },
+    {
+        "year": 2014,
+        "month": 5,
+        "value": 237.900
+    },
+    {
+        "year": 2014,
+        "month": 6,
+        "value": 238.343
+    },
+    {
+        "year": 2014,
+        "month": 7,
+        "value": 238.250
+    },
+    {
+        "year": 2014,
+        "month": 8,
+        "value": 237.852
+    },
+    {
+        "year": 2014,
+        "month": 9,
+        "value": 238.031
+    },
+    {
+        "year": 2014,
+        "month": 10,
+        "value": 237.433
+    },
+    {
+        "year": 2014,
+        "month": 11,
+        "value": 236.151
+    },
+    {
+        "year": 2014,
+        "month": 12,
+        "value": 234.812
+    },
+    {
+        "year": 2015,
+        "month": 1,
+        "value": 233.707
+    },
+    {
+        "year": 2015,
+        "month": 2,
+        "value": 234.722
+    },
+    {
+        "year": 2015,
+        "month": 3,
+        "value": 236.119
+    },
+    {
+        "year": 2015,
+        "month": 4,
+        "value": 236.599
+    },
+    {
+        "year": 2015,
+        "month": 5,
+        "value": 237.805
+    },
+    {
+        "year": 2015,
+        "month": 6,
+        "value": 238.638
+    },
+    {
+        "year": 2015,
+        "month": 7,
+        "value": 238.654
+    },
+    {
+        "year": 2015,
+        "month": 8,
+        "value": 238.316
+    },
+    {
+        "year": 2015,
+        "month": 9,
+        "value": 237.945
+    },
+    {
+        "year": 2015,
+        "month": 10,
+        "value": 237.838
+    },
+    {
+        "year": 2015,
+        "month": 11,
+        "value": 237.336
+    },
+    {
+        "year": 2015,
+        "month": 12,
+        "value": 236.525
+    },
+    {
+        "year": 2016,
+        "month": 1,
+        "value": 236.916
+    },
+    {
+        "year": 2016,
+        "month": 2,
+        "value": 237.111
+    },
+    {
+        "year": 2016,
+        "month": 3,
+        "value": 238.132
+    },
+    {
+        "year": 2016,
+        "month": 4,
+        "value": 239.261
+    },
+    {
+        "year": 2016,
+        "month": 5,
+        "value": 240.236
+    },
+    {
+        "year": 2016,
+        "month": 6,
+        "value": 241.038
+    },
+    {
+        "year": 2016,
+        "month": 7,
+        "value": 240.647
+    },
+    {
+        "year": 2016,
+        "month": 8,
+        "value": 240.849
+    },
+    {
+        "year": 2016,
+        "month": 9,
+        "value": 241.428
+    },
+    {
+        "year": 2016,
+        "month": 10,
+        "value": 241.729
+    },
+    {
+        "year": 2016,
+        "month": 11,
+        "value": 241.353
+    },
+    {
+        "year": 2016,
+        "month": 12,
+        "value": 241.432
+    },
+    {
+        "year": 2017,
+        "month": 1,
+        "value": 242.839
+    },
+    {
+        "year": 2017,
+        "month": 2,
+        "value": 243.603
+    },
+    {
+        "year": 2017,
+        "month": 3,
+        "value": 243.801
+    },
+    {
+        "year": 2017,
+        "month": 4,
+        "value": 244.524
+    },
+    {
+        "year": 2017,
+        "month": 5,
+        "value": 244.733
+    },
+    {
+        "year": 2017,
+        "month": 6,
+        "value": 244.955
+    },
+    {
+        "year": 2017,
+        "month": 7,
+        "value": 244.786
+    },
+    {
+        "year": 2017,
+        "month": 8,
+        "value": 245.519
+    },
+    {
+        "year": 2017,
+        "month": 9,
+        "value": 246.819
+    },
+    {
+        "year": 2017,
+        "month": 10,
+        "value": 246.663
+    },
+    {
+        "year": 2017,
+        "month": 11,
+        "value": 246.669
+    },
+    {
+        "year": 2017,
+        "month": 12,
+        "value": 246.524
+    },
+    {
+        "year": 2018,
+        "month": 1,
+        "value": 247.867
+    },
+    {
+        "year": 2018,
+        "month": 2,
+        "value": 248.991
+    },
+    {
+        "year": 2018,
+        "month": 3,
+        "value": 249.554
+    },
+    {
+        "year": 2018,
+        "month": 4,
+        "value": 250.546
+    },
+    {
+        "year": 2018,
+        "month": 5,
+        "value": 251.588
+    },
+    {
+        "year": 2018,
+        "month": 6,
+        "value": 251.989
+    },
+    {
+        "year": 2018,
+        "month": 7,
+        "value": 252.006
+    },
+    {
+        "year": 2018,
+        "month": 8,
+        "value": 252.146
+    },
+    {
+        "year": 2018,
+        "month": 9,
+        "value": 252.439
+    },
+    {
+        "year": 2018,
+        "month": 10,
+        "value": 252.885
+    },
+    {
+        "year": 2018,
+        "month": 11,
+        "value": 252.038
+    },
+    {
+        "year": 2018,
+        "month": 12,
+        "value": 251.233
+    },
+    {
+        "year": 2019,
+        "month": 1,
+        "value": 251.712
+    },
+    {
+        "year": 2019,
+        "month": 2,
+        "value": 252.776
+    },
+    {
+        "year": 2019,
+        "month": 3,
+        "value": 254.202
+    },
+    {
+        "year": 2019,
+        "month": 4,
+        "value": 255.548
+    },
+    {
+        "year": 2019,
+        "month": 5,
+        "value": 256.092
+    },
+    {
+        "year": 2019,
+        "month": 6,
+        "value": 256.143
+    },
+    {
+        "year": 2019,
+        "month": 7,
+        "value": 256.571
+    },
+    {
+        "year": 2019,
+        "month": 8,
+        "value": 256.558
+    },
+    {
+        "year": 2019,
+        "month": 9,
+        "value": 256.759
+    },
+    {
+        "year": 2019,
+        "month": 10,
+        "value": 257.346
+    },
+    {
+        "year": 2019,
+        "month": 11,
+        "value": 257.208
+    },
+    {
+        "year": 2019,
+        "month": 12,
+        "value": 256.974
+    },
+    {
+        "year": 2020,
+        "month": 1,
+        "value": 257.971
+    },
+    {
+        "year": 2020,
+        "month": 2,
+        "value": 258.678
+    },
+    {
+        "year": 2020,
+        "month": 3,
+        "value": 258.115
+    },
+    {
+        "year": 2020,
+        "month": 4,
+        "value": 256.389
+    },
+    {
+        "year": 2020,
+        "month": 5,
+        "value": 256.394
+    },
+    {
+        "year": 2020,
+        "month": 6,
+        "value": 257.797
+    },
+    {
+        "year": 2020,
+        "month": 7,
+        "value": 259.101
+    },
+    {
+        "year": 2020,
+        "month": 8,
+        "value": 259.918
+    },
+    {
+        "year": 2020,
+        "month": 9,
+        "value": 260.280
+    },
+    {
+        "year": 2020,
+        "month": 10,
+        "value": 260.388
+    },
+    {
+        "year": 2020,
+        "month": 11,
+        "value": 260.229
+    },
+    {
+        "year": 2020,
+        "month": 12,
+        "value": 260.474
+    },
+    {
+        "year": 2021,
+        "month": 1,
+        "value": 261.582
+    },
+    {
+        "year": 2021,
+        "month": 2,
+        "value": 263.014
+    },
+    {
+        "year": 2021,
+        "month": 3,
+        "value": 264.877
+    },    
+    {
+        "year": 2021,
+        "month": 4,
+        "value": 267.054
+    },   
+    {
+        "year": 2021,
+        "month": 5,
+        "value": 269.195
+    },    
+    {
+        "year": 2021,
+        "month": 6,
+        "value": 271.696
+    },
+    {
+        "year": 2021,
+        "month": 7,
+        "value": 273.003
+    },
+    {
+        "year": 2021,
+        "month": 8,
+        "value": 273.567
+    },    
+    {
+        "year": 2021,
+        "month": 9,
+        "value": 274.310
+    },
+    {
+        "year": 2021,
+        "month": 10,
+        "value": 276.589
+    },
+    {
+        "year": 2021,
+        "month": 11,
+        "value": 277.948
+    },
+    {
+        "year": 2021,
+        "month": 12,
+        "value": 278.802
+    },
+    {
+        "year": 2022,
+        "month": 1,
+        "value": 281.148
+    },
+    {
+        "year": 2022,
+        "month": 2,
+        "value": 283.716
+    },
+    {
+        "year": 2022,
+        "month": 3,
+        "value": 287.504
+    }
+]

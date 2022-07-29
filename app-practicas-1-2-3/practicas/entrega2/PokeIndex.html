@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type = "text/javascript"  src = "PokeMethod.js"></script>
+    <link href="PokeStyle.css" rel="stylesheet">
+    <link  rel = "icon" href ="https://icon-library.com/images/pokedex-icon/pokedex-icon-21.jpg">
+    <title>POKEDEX</title>
+</head>
+<body>
+    <div class="box02">
+        <button class="boton" id ="ant" onclick = "ant()">ant.</button>
+        <button class="boton" id = "sig" onclick = "sig()">sig.</button>
+        <p style="font-weight: bold">POKEDEX</p>
+        <ul style="list-style: none;display:inline-table; padding: 0px;" id="list"></ul>
+    </div>
+    <div class="box03">
+        <h1 style="padding: 0px;" id="especie"></h1>
+
+        <img hidden class="imagen" id="imagen" >
+
+        <h3 hidden id="tituloHabilidades">HABILIDADES</h3>
+
+        <ul style="padding: 0px;" id="habilidades" ></ul>
+
+        <h3 hidden id="tituloTipos">TIPO</h3>
+
+        <ul style="padding: 0px;" id="tipos"></ul> 
+
+        <ul style="padding: 0px;" id="stats" hidden >
+            <li class="info" id="peso"></li>
+            <li class="info" id="altura"></li>
+        </ul>
+    </div>
+</body>
+</html>

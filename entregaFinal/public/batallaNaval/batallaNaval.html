@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="batallaNaval.css">
+    </link>
+    <script type='text/javascript' src='batallaNaval.js'></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel='icon' href="https://play-lh.googleusercontent.com/pNOBBFKQi_zoqU22bhdSLLTC3OKyLf0_stWIVf2nMl7aXXtUwPOEXWloPC3gkK5T_A">
+    <title>Batalla naval</title>
+</head>
+
+<body id='body'>
+    <div>
+        <div id='buttonContainer' class="d-flex justify-content-center">
+            <button id="crear" type="button" class="btn btn-primary m-3">Crear tablero</button>
+            <button id="unir" type="button" class="btn btn-success m-3">Unirse a tablero</button>
+        </div>
+        <div id='searchBarContainer' class="d-flex justify-content-center m-3">
+            <input hidden type="type" class="form-control-justify-content-center" id="sala" placeholder="abc123">
+            <button hidden type="button" class="btn btn-secondary btn-sm" id="buscarSala">↺</button>
+        </div>
+    </div>
+    <div id='gameContainer' hidden>
+        <div id='statsContainer'>
+            <p style="font-size: 30px;" class="text-center m-2" id='gameInfo'></p>
+            <p style="font-size: 30px;" class="text-center m-2" id="estado"></p>
+        </div>
+        <div id="tableRelated" class="row justify-content-around vh-auto align-items-center" class>
+            <div id="armadoTablero" class="col-2 w-auto align-items-center text-center">
+                <em id="texto-barcos">Los barcos se giran antes de colocarse</em>
+                <div class="container-barcos">
+                    <div id='barcos'></div>
+                </div>
+                <button id="posicion" class="btn btn-info" onclick="posicionBarco()">GIRAR</button>
+                <button id="start" class="btn btn-success">COMENZAR</button>
+            </div>
+            <div id="columnaTableroBarcos" class="col-5">
+                <div class="tablero-batalla" id="j"></div>
+            </div>
+            <div id="columnaTableroAtaque" class="d-none">
+                <div class="tablero-batalla" id="e"></div>
+            </div>
+        </div>
+
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

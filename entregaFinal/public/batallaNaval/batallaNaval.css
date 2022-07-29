@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+
+#body{
+    background-color: #007EA7;
+    height: 100vh; 
+    padding: 0;
+    font-family:'Poppins';
+    background-image: url('https://images.alphacoders.com/869/869314.jpg');
+    background-size: cover;
+}
+
+#statsContainer{
+    background-color: #007EA7;
+    opacity: 0.8;
+}
+
+#texto-barcos{
+    font-size: 20px;
+    background-color: #007EA7;
+    opacity: 0.8;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    width: 100%
+}
+
+.tablero-batalla {
+    display: grid;
+    background-image: url('http://st.depositphotos.com/2168337/2557/i/450/depositphotos_25575987-water-pool.jpg');
+    background-size: cover;
+    grid-template-columns: repeat(10, 55px);
+    grid-template-rows: repeat(10, 55px);
+    width: fit-content;
+    margin-Left: auto;
+    margin-Right: auto;
+    margin-Bottom: 10px;
+}
+
+.grilla-batalla {
+   border: 0.5px solid rgb(0, 0, 68);
+}
+
+.container-barcos {
+    background-color: #007EA7;
+    width: 400px;
+    height: 300px;
+    border: 5px solid #a3c3e7;
+    float: center;
+    margin: 2px;
+    display: flex
+}

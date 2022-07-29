@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="/socket.io/socket.io.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+    <script type='text/javascript' src='app.js'></script>
+    
+    <link rel = 'icon' href="https://play-lh.googleusercontent.com/T2lskJAllNUNEd8JTGhJJTJnXkzOvq0_-rcMUHYr7GhbH0m7Z6qMD6uuT1tax1DLtA">
+    <title>Reversi</title>
+</head>
+
+<body id='body' background="https://www.solidbackgrounds.com/images/2560x1440/2560x1440-pastel-brown-solid-color-background.jpg" style=" height: 100vh; padding: 0;font-family:'Poppins'">
+    <div>
+        <div id='buttonContainer' class="d-flex justify-content-center">
+            <button id="crear" type="button" class="btn btn-primary m-3">Crear tablero</button>
+            <button id="unir" type="button" class="btn btn-success m-3">Unirse a tablero</button>
+        </div>
+        <div id='searchBarContainer' class="d-flex justify-content-center m-3">
+            <input hidden type="type" class="form-control-justify-content-center" id="sala" placeholder="abc123">
+            <button hidden type="button" class="btn btn-secondary btn-sm" id="buscarSala">↺</button>
+        </div>
+    </div>
+    <div id='gameInfoContainer' class="d-inline justify-content-center">
+        <p style="font-size: 30px;" class="text-center m-1" id='gameInfo'></p>
+        <p style="font-size: 20px;" class="text-center m-1" id='fichasDisponibles' ></p>
+    </div>
+    <div id='tableroContainer' class="d-flex justify-content-center m-1">
+        <div id='tablero'></div>
+    </div>
+    <div id='containerScore' class="d-flex justify-content-center m-1">
+        <p id='scoreBoard' class="text-center" style="font-size: 50px; background-color: black; color:white"></p>
+    </div>
+    <div id='containerResult' class="d-flex justify-content-center m-1">
+        <p id='resultBoard' class="text-center" style="font-size: 50px; color:white"></p>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

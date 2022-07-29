@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+    <link rel = 'icon' href="https://cdn-icons-png.flaticon.com/512/157/157933.png">
+    <title>Informacion</title>
+</head>
+
+<body
+    background="https://media.istockphoto.com/vectors/hand-drawn-seamless-pattern-of-board-game-vector-id1314853994?b=1&k=20&m=1314853994&s=170667a&w=0&h=pA5b_5H527MLO7QZUVV46mFo9PD7tQjXKc-zaP8KBZc="
+    style=" height: 100vh; padding: 0;font-family:'Poppins';">
+    <div class="container vh-100 text-center">
+        <div class="row justify-content-between vh-100 align-items-center p-1">
+            <div class="col-5 vh-50 bg-dark text-white border-right-0 border border-secondary rounded p-2 m-auto">
+                <div>
+                    <p class="h1">Reversi</p>
+                    <ul class="list-unstyled">
+                        <li class="list-group-item bg-secondary text-white m-1" style="font-size: 13px;">
+                            El jugador en crear la sala es por defecto la ficha "<u>Negro</u>".
+                        </li>
+                        <li class="list-group-item bg-light text-black m-1" style="font-size: 13px;">
+                            El jugador en unirse a la sala es por defecto la ficha "<u>Blanca</u>".
+                        </li>
+                        <li class="list-group-item bg-secondary text-white m-1" style="font-size: 13px;">
+                            Cada jugador dispone de <u>32 fichas</u>.
+                        </li>
+                        <li class="list-group-item bg-light text-black m-1" style="font-size: 13px;">
+                            <u>Empezando por quien lleva las fichas negras</u> los jugadores deben hacer un movimiento
+                            por
+                            <strong>turno</strong>, a menos que no puedan hacer ninguno, pasando en ese caso el turno al
+                            jugador
+                            contrario. El movimiento consiste en colocar una ficha de forma que flanquee
+                            <strong>una</strong> o <strong>varias</strong>
+                            fichas del color contrario y voltear esas fichas para que pasen a mostrar el propio color.
+                        </li>
+                        <li class="list-group-item bg-secondary text-white m-1" style="font-size: 13px;">
+                            Se voltean todas las fichas que se han flanqueado en ese turno al colocar la ficha del color
+                            contrario. Esas fichas, para que estén flanqueadas, deben formar una línea continua
+                            <em>recta (diagonal u ortogonal)</em>
+                            de fichas del mismo color entre dos fichas del color contrario (una
+                            de ellas la recién colocada y la otra ya presente).
+                        </li>
+                        <li class="list-group-item bg-light text-black m-1" style="font-size: 13px;">
+                            <strong>Gana</strong> el jugador que, una vez acabadas las fichas, tiene mayor fichas de su
+                            color en el
+                            tablero. Si tienen el mismo numero de fichas, hay <strong>empate</strong>.
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-5 vh-50 bg-dark text-white border-right-0 border border-secondary rounded p-2 m-auto">
+                <div>
+                    <p class="h1">Batalla Naval</p>
+                    <ul class="list-unstyled">
+                        <li class="list-group-item bg-secondary text-white m-1" style="font-size: 13px;">
+                            El jugador en crear la sala es por defecto el “<u>Jugador 1</u>”.
+                        </li>
+                        <li class="list-group-item bg-light text-black m-1" style="font-size: 13px;">
+                            El jugador en unirse a la sala es por defecto el “<u>Jugador 2</u>”.
+                        </li>
+                        <li class="list-group-item bg-secondary text-white m-1" style="font-size: 13px;">
+                            Los jugadores tienen 2 tableros, uno de <u>Barcos</u> (zona propia) y uno de <u>Ataque</u>
+                            (zona enemiga).
+                            Antes de poder atacar, se <em>debe enviar el tablero de barcos</em>. Los barcos en dicho
+                            tableros
+                            pueden ser colocados horizontal o verticalmente (no se puede cambiar orientación de un barco
+                            ya colocado en el tablero).
+                        </li>
+                        <li class="list-group-item bg-light text-black m-1" style="font-size: 13px;">
+                            Una vez enviados los tableros de Barcos de ambos jugadores, se juega por turnos, en donde
+                            cada jugador <em>dispara</em> hacia la flota de su oponente indicando una casilla, la que registra en el segundo tablero (tablero de
+                            Ataque). Si esa posición esta ocupada por un barco contrario lo dañara y la casilla
+                            quedara marcada en <strong>rojo</strong> (al igual que el barco enemigo en su tablero de
+                            Barcos). Si la
+                            posición indicada no corresponde a una parte un barco se marcará la casilla con
+                            <strong>azul</strong>.
+                        </li>
+                        <li class="list-group-item bg-secondary text-white m-1" style="font-size: 13px;">
+                            El juego puede terminar con un <strong>ganador</strong> o en <strong>empate</strong>. En
+                            igual cantidad de turnos por ambas
+                            partes, <strong>gana</strong> quien destruya primero todas las naves de su oponente, o se
+                            <strong>empata</strong> en caso de
+                            que ambos hayan hundido todos los barcos del oponente.
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <a href="http://localhost:3000"><img width="30" height="30"
+                    src="https://cdn-icons-png.flaticon.com/512/25/25694.png" alt="index"></a>
+        </div>
+
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
